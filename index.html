@@ -115,6 +115,23 @@
       color: var(--muted);
       font-size: 13px;
     }
+    .ios-hint {
+      position: sticky;
+      top: 0;
+      direction: rtl;
+      display: none;
+      gap: 6px;
+      align-items: center;
+      padding: 8px 12px;
+      margin-bottom: 8px;
+      border-radius: 10px;
+      background: color-mix(in srgb, var(--accent) 12%, var(--card) 88%);
+      color: var(--ink);
+      font-weight: 700;
+      font-size: 13px;
+      z-index: 5;
+    }
+    .ios-hint.show { display: inline-flex; }
     tbody tr {
       background: var(--surface);
       transition: background 0.2s ease, transform 0.08s ease;
@@ -215,6 +232,7 @@
 
   <div class="shell">
     <div class="panel">
+      <div id="iosHint" class="ios-hint">↔ اسحب لعرض الأعمدة على iOS</div>
       <div class="controls">
         <div class="field">
           <label for="search">بحث في العنوان/الوصف</label>
@@ -282,6 +300,7 @@
     const organizationOptions = document.getElementById('organizationOptions');
     const themeToggle = document.getElementById('themeToggle');
     const lastUpdated = document.getElementById('lastUpdated');
+    const iosHint = document.getElementById('iosHint');
 
     let jobs = [];
     let currentSort = { key: null, direction: 1 };
@@ -432,6 +451,7 @@
         attachClickFilters();
         initTheme();
         updateLastUpdated();
+        maybeShowIosHint();
       })
       .catch(err => {
         meta.textContent = 'تعذر تحميل البيانات، تأكد من تشغيل الخادم المحلي.';
@@ -459,6 +479,19 @@
     function updateToggleLabel() {
       const mode = document.documentElement.classList.contains('dark') ? 'داكن' : 'فاتح';
       themeToggle.textContent = `تبديل النمط (${mode === 'داكن' ? 'داكن/فاتح' : 'فاتح/داكن'})`;
+    }
+
+    function maybeShowIosHint() {
+      const ua = navigator.userAgent || navigator.vendor || window.opera;
+      const isIOS = /iPad|iPhone|iPod/.test(ua) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+      const isSafari = /^((?!chrome|android).)*safari/i.test(ua);
+      if (isIOS && isSafari) {
+        iosHint.classList.add('show');
+        // hide on first table scroll or tap
+        const hide = () => iosHint.classList.remove('show');
+        document.querySelector('.table-wrapper')?.addEventListener('scroll', hide, { once: true });
+        iosHint.addEventListener('click', hide, { once: true });
+      }
     }
 
     function populateDatalists(list) {
