@@ -208,7 +208,8 @@
   <header>
     <h1 class="title">لوحة متابعة الوظائف المعلنة</h1>
     <p class="subtitle">تجميع تلقائي من applyjobs.spac.gov.jo مع إمكانية البحث والتصفية | Auto-collected listings from applyjobs.spac.gov.jo with search & filters</p>
-    <p class="subtitle" style="font-size:13px;color:var(--muted);">يتم تحديث البيانات مرتين يوميًا (حوالي 08:00 و 17:00 بتوقيت عمّان)</p>
+    <p class="subtitle" style="font-size:13px;color:var(--muted);">يتم تحديث البيانات مرتين يوميًا (حوالي 08:00 و 17:00 بتوقيت عمّان، الأردن)</p>
+    <p class="subtitle" id="lastUpdated" style="font-size:13px;color:var(--muted);"></p>
     <button id="themeToggle" class="pill-button" aria-label="تبديل الوضع" style="margin-top:10px;">تبديل النمط (فاتح/داكن)</button>
   </header>
 
@@ -280,6 +281,7 @@
     const locationOptions = document.getElementById('locationOptions');
     const organizationOptions = document.getElementById('organizationOptions');
     const themeToggle = document.getElementById('themeToggle');
+    const lastUpdated = document.getElementById('lastUpdated');
 
     let jobs = [];
     let currentSort = { key: null, direction: 1 };
@@ -429,6 +431,7 @@
         render(jobs);
         attachClickFilters();
         initTheme();
+        updateLastUpdated();
       })
       .catch(err => {
         meta.textContent = 'تعذر تحميل البيانات، تأكد من تشغيل الخادم المحلي.';
@@ -474,6 +477,24 @@
       organizationOptions.innerHTML = uniqueOrgs.map(v => `<option value="${v}">`).join('');
       searchOptions.innerHTML = searchWords.slice(0, 40).map(v => `<option value="${v}">`).join('');
       titleOptions.innerHTML = uniqueTitles.map(v => `<option value="${v}">`).join('');
+    }
+
+    function updateLastUpdated() {
+      if (!jobsMeta.scraped_at) {
+        lastUpdated.textContent = 'آخر تحديث: غير متاح';
+        return;
+      }
+      const dt = new Date(jobsMeta.scraped_at);
+      const fmt = dt.toLocaleString('en-GB', {
+        timeZone: 'Asia/Amman',
+        hour12: false,
+        year: 'numeric',
+        month: '2-digit',
+        day: '2-digit',
+        hour: '2-digit',
+        minute: '2-digit'
+      });
+      lastUpdated.textContent = `آخر تحديث للبيانات: ${fmt} (بتوقيت عمّان، الأردن)`;
     }
 
     function attachClickFilters() {
