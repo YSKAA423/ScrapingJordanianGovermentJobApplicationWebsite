@@ -1,0 +1,520 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>لوحة تتبع الوظائف - نظام الاستقطاب</title>
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&family=Space+Grotesk:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+:root {
+      /* Light theme (restored to original look) */
+      --ink: #0b2545;
+      --accent: #19b6c9;
+      --muted: #6a7b8c;
+      --card: #ffffff;
+      --surface: #f6fbff;
+      --chip-open: #0f9d58;
+      --chip-closed: #c0392b;
+      --bg: radial-gradient(circle at 20% 20%, #e7f7ff, #d7e6f3 45%, #c7d7ea 75%);
+      --table-header: var(--card);
+      --table-header-text: var(--muted);
+    }
+    :root.dark {
+      /* Dark theme (distinct, without altering light) */
+      --ink: #e4ecf5;
+      --accent: #3fd0ff;
+      --muted: #9eb4cb;
+      --card: #142235;
+      --surface: #0c1928;
+      --chip-open: #1bd585;
+      --chip-closed: #ff7b7b;
+      --bg: radial-gradient(circle at 20% 20%, #0c1622, #0b1a2f 50%, #0c1b36 100%);
+      --table-header: #0b253d;
+      --table-header-text: #e9f2fb;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: 'Cairo', 'Space Grotesk', system-ui, sans-serif;
+      font-size: 18px;
+      background: var(--bg);
+      color: var(--ink);
+      line-height: 1.6;
+    }
+    header {
+      padding: 40px 16px 18px;
+      text-align: center;
+    }
+    .title {
+      margin: 0;
+      font-size: 32px;
+      letter-spacing: -0.02em;
+    }
+    .subtitle {
+      margin: 6px 0 0;
+      color: var(--muted);
+      font-size: 16px;
+    }
+    .shell {
+      max-width: 1200px;
+      margin: 0 auto 48px;
+      padding: 0 16px 24px;
+    }
+    .panel {
+      background: var(--card);
+      border-radius: 18px;
+      box-shadow: 0 24px 60px rgba(6, 57, 97, 0.12);
+      padding: 20px;
+      border: 1px solid rgba(11, 37, 69, 0.07);
+    }
+    .controls {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 12px;
+      margin-bottom: 16px;
+    }
+    .field {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    label {
+      font-weight: 600;
+      color: var(--muted);
+      font-size: 13px;
+    }
+    input, select {
+      padding: 12px 12px;
+      border-radius: 10px;
+      border: 1px solid rgba(11, 37, 69, 0.18);
+      background: #f8fbff;
+      font-family: 'Cairo', sans-serif;
+      font-size: 16px;
+    }
+    input:focus, select:focus {
+      outline: 2px solid rgba(25, 182, 201, 0.35);
+      border-color: transparent;
+      background: white;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 15px;
+    }
+    thead {
+      background: var(--table-header);
+      color: var(--table-header-text);
+    }
+    th, td {
+      padding: 14px 10px;
+      text-align: right;
+      border-bottom: 1px solid rgba(11, 37, 69, 0.07);
+    }
+    th {
+      font-weight: 700;
+      color: var(--muted);
+      font-size: 13px;
+    }
+    tbody tr {
+      background: var(--surface);
+      transition: background 0.2s ease, transform 0.08s ease;
+    }
+    tbody tr:nth-child(2n) {
+      background: var(--surface);
+    }
+    tbody tr:hover {
+      background: color-mix(in srgb, var(--surface) 80%, var(--accent) 20%);
+      transform: translateY(-1px);
+    }
+    .status {
+      display: inline-block;
+      padding: 4px 10px;
+      border-radius: 999px;
+      color: white;
+      font-weight: 700;
+      font-size: 12px;
+    }
+    .status.open { background: var(--chip-open); }
+    .status.closed { background: var(--chip-closed); }
+    .status.unknown { background: #999; }
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 4px 8px;
+      border-radius: 10px;
+      background: var(--card);
+      border: 1px solid rgba(11, 37, 69, 0.05);
+      color: var(--ink);
+      font-weight: 600;
+    }
+    .links a {
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 700;
+    }
+    .links a:hover { text-decoration: underline; }
+    .meta {
+      color: var(--muted);
+      font-size: 12px;
+      margin-top: 8px;
+    }
+    .clickable {
+      cursor: pointer;
+      transition: transform 0.08s ease;
+    }
+    .clickable:hover {
+      transform: scale(1.02);
+    }
+    .header-sort {
+      cursor: pointer;
+      position: relative;
+      transition: color 0.15s ease, background 0.15s ease;
+    }
+    .pill-button {
+      padding: 8px 14px;
+      border-radius: 12px;
+      border: 1px solid rgba(0,0,0,0.06);
+      background: var(--card);
+      color: var(--ink);
+      font-weight: 700;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+    .pill-button:hover {
+      border-color: var(--accent);
+      box-shadow: 0 6px 14px rgba(0,0,0,0.08);
+    }
+    .header-sort:hover {
+      color: var(--accent);
+      background: rgba(25, 182, 201, 0.08);
+    }
+    @media (max-width: 800px) {
+      table, thead, tbody, th, td, tr { display: block; }
+      thead { display: none; }
+      tr { margin-bottom: 14px; background: #f9fcff; border-radius: 10px; padding: 8px; }
+      td { border: none; padding: 6px 4px; }
+      td::before {
+        content: attr(data-label);
+        display: block;
+        font-weight: 700;
+        color: var(--muted);
+        margin-bottom: 4px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1 class="title">لوحة متابعة الوظائف المعلنة</h1>
+    <p class="subtitle">تجميع تلقائي من applyjobs.spac.gov.jo مع إمكانية البحث والتصفية</p>
+    <p class="subtitle" style="font-size:13px;color:var(--muted);">يتم تحديث البيانات مرتين يوميًا (حوالي 08:00 و 17:00 بتوقيت عمّان)</p>
+    <button id="themeToggle" class="pill-button" aria-label="تبديل الوضع" style="margin-top:10px;">تبديل النمط (فاتح/داكن)</button>
+  </header>
+
+  <div class="shell">
+    <div class="panel">
+      <div class="controls">
+        <div class="field">
+          <label for="search">بحث في العنوان/الوصف</label>
+          <input id="search" list="searchOptions" type="text" placeholder="مثال: مهندس، تكنولوجيا، الإدارة">
+          <datalist id="searchOptions"></datalist>
+        </div>
+        <div class="field">
+          <label for="titleSearch">تصفية حسب اسم الوظيفة</label>
+          <input id="titleSearch" list="titleOptions" type="text" placeholder="مثال: مهندس، اختصاصي">
+          <datalist id="titleOptions"></datalist>
+        </div>
+        <div class="field">
+          <label for="status">حالة الطلب</label>
+          <select id="status">
+            <option value="all">الكل</option>
+            <option value="open">متاح الآن</option>
+            <option value="closed">منتهي</option>
+          </select>
+        </div>
+        <div class="field">
+          <label for="location">الموقع/المحافظة</label>
+          <input id="location" list="locationOptions" type="text" placeholder="عمان، الزرقاء ...">
+          <datalist id="locationOptions"></datalist>
+        </div>
+        <div class="field">
+          <label for="organization">الجهة</label>
+          <input id="organization" list="organizationOptions" type="text" placeholder="وزارة، دائرة ...">
+          <datalist id="organizationOptions"></datalist>
+        </div>
+      </div>
+
+      <div class="meta" id="meta"></div>
+
+      <div class="table-wrapper">
+        <table>
+          <thead>
+            <tr>
+            <th class="header-sort" data-key="title" title="اضغط للفرز أو التجميع">المسمى الوظيفي</th>
+            <th class="header-sort" data-key="status">الحالة</th>
+            <th class="header-sort" data-key="location">الموقع</th>
+            <th class="header-sort" data-key="end_date">تاريخ الإغلاق</th>
+            <th class="header-sort" data-key="experience_text">سنوات الخبرة</th>
+            <th class="header-sort" data-key="salary">الراتب</th>
+            <th class="header-sort" data-key="vacancies">شواغر</th>
+            <th>روابط</th>
+          </tr>
+        </thead>
+        <tbody id="jobsBody"></tbody>
+      </table>
+    </div>
+    </div>
+  </div>
+
+  <script>
+    const jobsBody = document.getElementById('jobsBody');
+    const searchInput = document.getElementById('search');
+    const titleSearchInput = document.getElementById('titleSearch');
+    const statusSelect = document.getElementById('status');
+    const locationInput = document.getElementById('location');
+    const organizationInput = document.getElementById('organization');
+    const meta = document.getElementById('meta');
+    const searchOptions = document.getElementById('searchOptions');
+    const titleOptions = document.getElementById('titleOptions');
+    const locationOptions = document.getElementById('locationOptions');
+    const organizationOptions = document.getElementById('organizationOptions');
+    const themeToggle = document.getElementById('themeToggle');
+
+    let jobs = [];
+    let currentSort = { key: null, direction: 1 };
+
+    function statusLabel(status) {
+      const cls = status === 'open' ? 'open' : status === 'closed' ? 'closed' : 'unknown';
+      const text = status === 'open' ? 'متاح' : status === 'closed' ? 'منتهي' : 'غير معروف';
+      return `<span class="status ${cls}">${text}</span>`;
+    }
+
+    function experienceComparator(a, b) {
+      const valA = normalizeExperienceValue(a);
+      const valB = normalizeExperienceValue(b);
+      const numA = Number(valA);
+      const numB = Number(valB);
+      const aIsNum = !Number.isNaN(numA);
+      const bIsNum = !Number.isNaN(numB);
+      if (valA === '--' && valB !== '--') return -1;
+      if (valB === '--' && valA !== '--') return 1;
+      if (aIsNum && bIsNum) return numA - numB;
+      if (aIsNum && !bIsNum) return -1;
+      if (!aIsNum && bIsNum) return 1;
+      return (valA || '').toString().localeCompare((valB || '').toString(), 'ar');
+    }
+
+    function normalizeExperienceValue(job) {
+      const raw = job.experience_raw || job.experience_text || job.experience_years || '';
+      if (!raw) return '--';
+      const match = String(raw).match(/(\d+)/);
+      if (match && match[1]) return match[1];
+      return '--';
+    }
+
+    function sortData(list) {
+      if (!currentSort.key) return list;
+      const sorted = [...list];
+      sorted.sort((a, b) => {
+        let result = 0;
+        switch (currentSort.key) {
+          case 'end_date':
+            result = (a.end_date || '').localeCompare(b.end_date || '');
+            break;
+          case 'salary':
+            result = Number(a.salary || 0) - Number(b.salary || 0);
+            break;
+          case 'vacancies':
+            result = (a.vacancies ?? '').toString().localeCompare((b.vacancies ?? '').toString(), 'ar', { numeric: true });
+            break;
+          case 'experience_text':
+            result = experienceComparator(a, b);
+            break;
+          case 'status':
+          case 'location':
+          case 'title':
+            result = (a[currentSort.key] || '').localeCompare(b[currentSort.key] || '', 'ar');
+            break;
+          default:
+            result = 0;
+        }
+        return currentSort.direction * result;
+      });
+      return sorted;
+    }
+
+    function render(filtered) {
+      const list = sortData(filtered);
+      jobsBody.innerHTML = list.map(job => {
+        const attachments = [];
+        if (job.announcement_pdf) attachments.push(`<a href="${job.announcement_pdf}" target="_blank">الإعلان</a>`);
+        if (job.description_pdf) attachments.push(`<a href="${job.description_pdf}" target="_blank">بطاقة الوصف</a>`);
+        attachments.push(`<a href="${job.detail_url}" target="_blank">تفاصيل</a>`);
+
+        const endDate = job.end_date || '—';
+        const location = job.location || '—';
+        const vacancies = job.vacancies ?? '—';
+        const rawExp = (job.experience_raw || job.experience_text || job.experience_years || '').toString().trim();
+        const expValue = normalizeExperienceValue(job);
+        const expDisplay = expValue || (rawExp || '--');
+        const expTitle = `خبرة فنية في مجال الوظيفة : ${rawExp || '--'}`;
+        const salaryDisplay = job.salary != null ? job.salary : '—';
+
+        return `
+          <tr data-url="${job.detail_url}">
+            <td data-label="المسمى" class="clickable title-cell">
+              <div style="font-weight:700">${job.title}</div>
+              <div class="meta organization clickable" data-org="${job.organization || ''}">${job.organization || ''}</div>
+              <div class="meta vacancy clickable" data-vac="${job.vacancy_spec || ''}">${job.vacancy_spec || ''}</div>
+            </td>
+            <td data-label="الحالة" class="clickable status-cell" data-status="${job.status}">${statusLabel(job.status)}</td>
+            <td data-label="الموقع" class="clickable location-cell" data-location="${location}"><span class="badge">📍 ${location}</span></td>
+            <td data-label="تاريخ الإغلاق">${endDate}</td>
+            <td data-label="الخبرة" class="clickable experience-cell" data-exp="${expValue}" title="${expTitle}">${expDisplay}</td>
+            <td data-label="الراتب">${salaryDisplay}</td>
+            <td data-label="الشواغر">${vacancies}</td>
+            <td data-label="روابط" class="links">${attachments.join(' • ')}</td>
+          </tr>
+        `;
+      }).join('');
+
+      meta.textContent = `المعروض: ${filtered.length} وظيفة | آخر تحديث للبيانات: ${jobsMeta.scraped_at || 'غير متاح'}`;
+    }
+
+    function filterJobs() {
+      const term = searchInput.value.trim().toLowerCase();
+      const titleTerm = titleSearchInput.value.trim().toLowerCase();
+      const status = statusSelect.value;
+      const location = locationInput.value.trim().toLowerCase();
+      const org = organizationInput.value.trim().toLowerCase();
+
+      const filtered = jobs.filter(job => {
+        const haystack = [
+          job.title,
+          job.organization,
+          job.vacancy_spec,
+          job.requirements,
+          job.experience_text || job.experience_years || job.experience_raw,
+          normalizeExperienceValue(job),
+          job.qualification
+        ].join(' ').toLowerCase();
+
+        const matchesTerm = !term || haystack.includes(term);
+        const matchesTitle = !titleTerm || (job.title || '').toLowerCase().includes(titleTerm);
+        const matchesStatus = status === 'all' || job.status === status;
+        const matchesLocation = !location || (job.location || '').toLowerCase().includes(location);
+        const matchesOrg = !org || (job.organization || '').toLowerCase().includes(org);
+
+        return matchesTerm && matchesTitle && matchesStatus && matchesLocation && matchesOrg;
+      });
+
+      render(filtered);
+    }
+
+    let jobsMeta = {};
+
+    fetch('data/jobs.json')
+      .then(res => res.json())
+      .then(data => {
+        jobs = (data.jobs || []).map(j => ({
+          ...j,
+          experience_text: j.experience_text || (j.experience_years != null ? String(j.experience_years) : ''),
+          experience_raw: j.experience_raw || j.experience_text
+        }));
+        jobsMeta = data;
+        // sort by end date descending (soonest first)
+        jobs.sort((a, b) => (a.end_date || '').localeCompare(b.end_date || ''));
+        populateDatalists(jobs);
+        render(jobs);
+        attachClickFilters();
+        initTheme();
+      })
+      .catch(err => {
+        meta.textContent = 'تعذر تحميل البيانات، تأكد من تشغيل الخادم المحلي.';
+        console.error(err);
+      });
+
+    [searchInput, titleSearchInput, statusSelect, locationInput, organizationInput].forEach(el => {
+      el.addEventListener('input', filterJobs);
+      el.addEventListener('change', filterJobs);
+    });
+
+    function initTheme() {
+      const root = document.documentElement;
+      const saved = localStorage.getItem('theme');
+      if (saved === 'dark') root.classList.add('dark');
+      updateToggleLabel();
+      themeToggle.addEventListener('click', () => {
+        root.classList.toggle('dark');
+        const mode = root.classList.contains('dark') ? 'dark' : 'light';
+        localStorage.setItem('theme', mode);
+        updateToggleLabel();
+      });
+    }
+
+    function updateToggleLabel() {
+      const mode = document.documentElement.classList.contains('dark') ? 'داكن' : 'فاتح';
+      themeToggle.textContent = `تبديل النمط (${mode === 'داكن' ? 'داكن/فاتح' : 'فاتح/داكن'})`;
+    }
+
+    function populateDatalists(list) {
+      const uniqueLocations = Array.from(new Set(list.map(j => j.location || '').filter(Boolean))).sort();
+      const uniqueOrgs = Array.from(new Set(list.map(j => j.organization || '').filter(Boolean))).sort();
+      const searchWords = Array.from(new Set(list.flatMap(j =>
+        (j.title || '').split(' ')
+          .concat((j.organization || '').split(' '))
+          .concat((normalizeExperienceValue(j) || '').toString().split(' '))
+          .concat((j.experience_text || j.experience_years || j.experience_raw || '').toString().split(' '))
+          .concat((j.vacancy_spec || '').split(' '))
+      ))).filter(Boolean);
+      const uniqueTitles = Array.from(new Set(list.map(j => j.title || '').filter(Boolean))).sort();
+
+      locationOptions.innerHTML = uniqueLocations.map(v => `<option value="${v}">`).join('');
+      organizationOptions.innerHTML = uniqueOrgs.map(v => `<option value="${v}">`).join('');
+      searchOptions.innerHTML = searchWords.slice(0, 40).map(v => `<option value="${v}">`).join('');
+      titleOptions.innerHTML = uniqueTitles.map(v => `<option value="${v}">`).join('');
+    }
+
+    function attachClickFilters() {
+      // Header sorting/grouping
+      document.querySelectorAll('.header-sort').forEach(th => {
+        th.addEventListener('click', () => {
+          const key = th.dataset.key;
+          if (currentSort.key === key) {
+            currentSort.direction *= -1;
+          } else {
+            currentSort = { key, direction: 1 };
+          }
+          filterJobs();
+        });
+      });
+
+      jobsBody.addEventListener('click', (e) => {
+        const cell = e.target.closest('.status-cell, .location-cell, .organization, .vacancy, .experience-cell');
+        const row = e.target.closest('tr[data-url]');
+        if (!cell && row && e.target.tagName !== 'A') {
+          window.open(row.dataset.url, '_blank');
+          return;
+        }
+
+        if (cell?.classList.contains('status-cell')) {
+          const status = cell.dataset.status;
+          if (status) {
+            statusSelect.value = status === 'unknown' ? 'all' : status;
+            filterJobs();
+          }
+        } else if (cell?.classList.contains('location-cell')) {
+          const loc = cell.dataset.location || '';
+          locationInput.value = loc;
+          filterJobs();
+        } else if (cell?.classList.contains('organization')) {
+          const org = cell.dataset.org || '';
+          organizationInput.value = org;
+          filterJobs();
+        }
+      });
+    }
+  </script>
+</body>
+</html>
