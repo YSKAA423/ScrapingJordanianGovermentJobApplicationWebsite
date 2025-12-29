@@ -1,10 +1,13 @@
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>لوحة تتبع الوظائف - نظام الاستقطاب</title>
-  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&family=Space+Grotesk:wght@400;600&display=swap" rel="stylesheet">
+  <link
+    href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&family=Space+Grotesk:wght@400;600&display=swap"
+    rel="stylesheet">
   <style>
     :root {
       /* Light theme (restored to original look) */
@@ -19,6 +22,7 @@
       --table-header: var(--card);
       --table-header-text: var(--muted);
     }
+
     :root.dark {
       /* Dark theme (distinct, without altering light) */
       --ink: #e4ecf5;
@@ -32,7 +36,11 @@
       --table-header: #0b253d;
       --table-header-text: #e9f2fb;
     }
-    * { box-sizing: border-box; }
+
+    * {
+      box-sizing: border-box;
+    }
+
     body {
       margin: 0;
       font-family: 'Cairo', 'Space Grotesk', system-ui, sans-serif;
@@ -41,25 +49,30 @@
       color: var(--ink);
       line-height: 1.6;
     }
+
     header {
       padding: 40px 16px 18px;
       text-align: center;
     }
+
     .title {
       margin: 0;
       font-size: 32px;
       letter-spacing: -0.02em;
     }
+
     .subtitle {
       margin: 6px 0 0;
       color: var(--muted);
       font-size: 16px;
     }
+
     .shell {
       max-width: 1200px;
       margin: 0 auto 48px;
       padding: 0 16px 24px;
     }
+
     .panel {
       background: var(--card);
       border-radius: 18px;
@@ -67,23 +80,28 @@
       padding: 20px;
       border: 1px solid rgba(11, 37, 69, 0.07);
     }
+
     .controls {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
       gap: 12px;
       margin-bottom: 16px;
     }
+
     .field {
       display: flex;
       flex-direction: column;
       gap: 6px;
     }
+
     label {
       font-weight: 600;
       color: var(--muted);
       font-size: 13px;
     }
-    input, select {
+
+    input,
+    select {
       padding: 10px 12px;
       height: 44px;
       line-height: 22px;
@@ -93,6 +111,7 @@
       font-family: 'Cairo', sans-serif;
       font-size: 16px;
     }
+
     select {
       -webkit-appearance: none;
       -moz-appearance: none;
@@ -102,50 +121,68 @@
       background-position: calc(100% - 10px) center;
       padding-right: 32px;
     }
-    input:focus, select:focus {
+
+    input:focus,
+    select:focus {
       outline: 2px solid rgba(25, 182, 201, 0.35);
       border-color: transparent;
       background: white;
     }
+
     table {
       width: 100%;
       border-collapse: collapse;
       font-size: 15px;
     }
+
     thead {
       background: var(--table-header);
       color: var(--table-header-text);
     }
-    th, td {
+
+    th,
+    td {
       padding: 14px 10px;
       text-align: right;
       border-bottom: 1px solid rgba(11, 37, 69, 0.07);
     }
+
     th {
       font-weight: 700;
       color: var(--muted);
       font-size: 13px;
     }
+
     .title-link {
-      display: inline-block;
+      display: block;
+      min-height: 44px;
+      padding: 8px 0;
       font-weight: 700;
       color: var(--ink);
       text-decoration: none;
+      /* iOS Safari tap fix */
+      -webkit-tap-highlight-color: rgba(25, 182, 201, 0.25);
+      touch-action: manipulation;
     }
+
     .title-link:hover {
       text-decoration: underline;
     }
+
     tbody tr {
       background: var(--surface);
       transition: background 0.2s ease, transform 0.08s ease;
     }
+
     tbody tr:nth-child(2n) {
       background: var(--surface);
     }
+
     tbody tr:hover {
       background: color-mix(in srgb, var(--surface) 80%, var(--accent) 20%);
       transform: translateY(-1px);
     }
+
     .status {
       display: inline-block;
       padding: 4px 10px;
@@ -154,9 +191,19 @@
       font-weight: 700;
       font-size: 12px;
     }
-    .status.open { background: var(--chip-open); }
-    .status.closed { background: var(--chip-closed); }
-    .status.unknown { background: #999; }
+
+    .status.open {
+      background: var(--chip-open);
+    }
+
+    .status.closed {
+      background: var(--chip-closed);
+    }
+
+    .status.unknown {
+      background: #999;
+    }
+
     .badge {
       display: inline-flex;
       align-items: center;
@@ -168,52 +215,101 @@
       color: var(--ink);
       font-weight: 600;
     }
+
     .links a {
       color: var(--accent);
       text-decoration: none;
       font-weight: 700;
     }
-    .links a:hover { text-decoration: underline; }
+
+    .links a:hover {
+      text-decoration: underline;
+    }
+
     .meta {
       color: var(--muted);
       font-size: 12px;
       margin-top: 8px;
     }
+
     .clickable {
       cursor: pointer;
       transition: transform 0.08s ease;
     }
+
     .clickable:hover {
       transform: scale(1.02);
     }
+
+    /* Better touch handling for iOS */
+    a {
+      -webkit-tap-highlight-color: rgba(25, 182, 201, 0.2);
+      touch-action: manipulation;
+    }
+
+    /* Ensure links in table are highly tappable */
+    .links a {
+      display: inline-block;
+      min-height: 44px;
+      min-width: 44px;
+      padding: 10px 6px;
+      line-height: 24px;
+    }
+
     .header-sort {
       cursor: pointer;
       position: relative;
       transition: color 0.15s ease, background 0.15s ease;
     }
+
     .pill-button {
       padding: 8px 14px;
       border-radius: 12px;
-      border: 1px solid rgba(0,0,0,0.06);
+      border: 1px solid rgba(0, 0, 0, 0.06);
       background: var(--card);
       color: var(--ink);
       font-weight: 700;
       cursor: pointer;
       transition: all 0.2s ease;
     }
+
     .pill-button:hover {
       border-color: var(--accent);
-      box-shadow: 0 6px 14px rgba(0,0,0,0.08);
+      box-shadow: 0 6px 14px rgba(0, 0, 0, 0.08);
     }
+
     .header-sort:hover {
       color: var(--accent);
       background: rgba(25, 182, 201, 0.08);
     }
+
     @media (max-width: 800px) {
-      table, thead, tbody, th, td, tr { display: block; }
-      thead { display: none; }
-      tr { margin-bottom: 14px; background: #f9fcff; border-radius: 10px; padding: 8px; }
-      td { border: none; padding: 6px 4px; }
+
+      table,
+      thead,
+      tbody,
+      th,
+      td,
+      tr {
+        display: block;
+      }
+
+      thead {
+        display: none;
+      }
+
+      tr {
+        margin-bottom: 14px;
+        background: #f9fcff;
+        border-radius: 10px;
+        padding: 8px;
+      }
+
+      td {
+        border: none;
+        padding: 6px 4px;
+      }
+
       td::before {
         content: attr(data-label);
         display: block;
@@ -224,13 +320,17 @@
     }
   </style>
 </head>
+
 <body>
   <header>
     <h1 class="title">لوحة متابعة الوظائف المعلنة</h1>
-    <p class="subtitle">تجميع تلقائي من applyjobs.spac.gov.jo مع إمكانية البحث والتصفية | Auto-collected listings from applyjobs.spac.gov.jo with search & filters</p>
-    <p class="subtitle" style="font-size:13px;color:var(--muted);">يتم تحديث البيانات مرتين يوميًا (حوالي 08:00 و 17:00 بتوقيت عمّان، الأردن)</p>
+    <p class="subtitle">تجميع تلقائي من applyjobs.spac.gov.jo مع إمكانية البحث والتصفية | Auto-collected listings from
+      applyjobs.spac.gov.jo with search & filters</p>
+    <p class="subtitle" style="font-size:13px;color:var(--muted);">يتم تحديث البيانات مرتين يوميًا (حوالي 08:00 و 17:00
+      بتوقيت عمّان، الأردن)</p>
     <p class="subtitle" id="lastUpdated" style="font-size:13px;color:var(--muted);"></p>
-    <button id="themeToggle" class="pill-button" aria-label="تبديل الوضع" style="margin-top:10px;">تبديل النمط (فاتح/داكن)</button>
+    <button id="themeToggle" class="pill-button" aria-label="تبديل الوضع" style="margin-top:10px;">تبديل النمط
+      (فاتح/داكن)</button>
   </header>
 
   <div class="shell">
@@ -280,19 +380,19 @@
         <table>
           <thead>
             <tr>
-            <th class="header-sort" data-key="title" title="اضغط للفرز أو التجميع">المسمى الوظيفي</th>
-            <th class="header-sort" data-key="status">الحالة</th>
-            <th class="header-sort" data-key="location">الموقع</th>
-            <th class="header-sort" data-key="end_date">تاريخ الإغلاق</th>
-            <th class="header-sort" data-key="experience_text">سنوات الخبرة</th>
-            <th class="header-sort" data-key="salary">الراتب</th>
-            <th class="header-sort" data-key="vacancies">شواغر</th>
-            <th>روابط</th>
-          </tr>
-        </thead>
-        <tbody id="jobsBody"></tbody>
-      </table>
-    </div>
+              <th class="header-sort" data-key="title" title="اضغط للفرز أو التجميع">المسمى الوظيفي</th>
+              <th class="header-sort" data-key="status">الحالة</th>
+              <th class="header-sort" data-key="location">الموقع</th>
+              <th class="header-sort" data-key="end_date">تاريخ الإغلاق</th>
+              <th class="header-sort" data-key="experience_text">سنوات الخبرة</th>
+              <th class="header-sort" data-key="salary">الراتب</th>
+              <th class="header-sort" data-key="vacancies">شواغر</th>
+              <th>روابط</th>
+            </tr>
+          </thead>
+          <tbody id="jobsBody"></tbody>
+        </table>
+      </div>
     </div>
   </div>
 
@@ -391,16 +491,16 @@
         const titleBlock = `<a class="title-link" href="${job.detail_url}" target="_blank" rel="noopener noreferrer">${job.title}</a>`;
 
         return `
-          <tr data-url="${job.detail_url}">
-            <td data-label="المسمى" class="clickable title-cell">
+          <tr>
+            <td data-label="المسمى" class="title-cell">
               ${titleBlock}
-              <div class="meta organization clickable" data-org="${job.organization || ''}">${job.organization || ''}</div>
-              <div class="meta vacancy clickable" data-vac="${job.vacancy_spec || ''}">${job.vacancy_spec || ''}</div>
+              <div class="meta organization" data-org="${job.organization || ''}">${job.organization || ''}</div>
+              <div class="meta vacancy" data-vac="${job.vacancy_spec || ''}">${job.vacancy_spec || ''}</div>
             </td>
-            <td data-label="الحالة" class="clickable status-cell" data-status="${job.status}">${statusLabel(job.status)}</td>
-            <td data-label="الموقع" class="clickable location-cell" data-location="${location}"><span class="badge">📍 ${location}</span></td>
+            <td data-label="الحالة" class="status-cell" data-status="${job.status}">${statusLabel(job.status)}</td>
+            <td data-label="الموقع" class="location-cell" data-location="${location}"><span class="badge">📍 ${location}</span></td>
             <td data-label="تاريخ الإغلاق">${endDate}</td>
-            <td data-label="الخبرة" class="clickable experience-cell" data-exp="${expValue}" title="${expTitle}">${expDisplay}</td>
+            <td data-label="الخبرة" class="experience-cell" data-exp="${expValue}" title="${expTitle}">${expDisplay}</td>
             <td data-label="الراتب">${salaryDisplay}</td>
             <td data-label="الشواغر">${vacancies}</td>
             <td data-label="روابط" class="links">${attachments.join(' • ')}</td>
@@ -540,11 +640,7 @@
 
       jobsBody.addEventListener('click', (e) => {
         const cell = e.target.closest('.status-cell, .location-cell, .organization, .vacancy, .experience-cell');
-        const row = e.target.closest('tr[data-url]');
-        if (!cell && row && e.target.tagName !== 'A') {
-          window.open(row.dataset.url, '_blank');
-          return;
-        }
+        // Row navigation is now handled by the anchor overlay, no window.open() needed
 
         if (cell?.classList.contains('status-cell')) {
           const status = cell.dataset.status;
@@ -565,4 +661,5 @@
     }
   </script>
 </body>
+
 </html>
