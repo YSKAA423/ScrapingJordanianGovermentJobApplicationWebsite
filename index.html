@@ -276,6 +276,12 @@
           </select>
         </div>
         <div class="field">
+          <label for="experienceFilter">سنوات الخبرة</label>
+          <select id="experienceFilter">
+            <option value="all">الكل</option>
+          </select>
+        </div>
+        <div class="field">
           <label for="organization">الجهة</label>
           <select id="organization">
             <option value="all">الكل</option>
@@ -311,6 +317,7 @@
     const titleSearchInput = document.getElementById('titleSearch');
     const statusSelect = document.getElementById('status');
     const locationInput = document.getElementById('location');
+    const experienceFilter = document.getElementById('experienceFilter');
     const organizationInput = document.getElementById('organization');
     const meta = document.getElementById('meta');
     const themeToggle = document.getElementById('themeToggle');
@@ -433,6 +440,7 @@
       const titleTerm = titleSearchInput.value.trim().toLowerCase();
       const status = statusSelect.value;
       const location = locationInput.value.trim().toLowerCase();
+      const experienceVal = experienceFilter.value;
       const org = organizationInput.value.trim().toLowerCase();
 
       const filtered = jobs.filter(job => {
@@ -450,9 +458,10 @@
         const matchesTitle = titleTerm === 'all' || (job.title || '').toLowerCase().includes(titleTerm);
         const matchesStatus = status === 'all' || job.status === status;
         const matchesLocation = location === 'all' || (job.location || '').toLowerCase().includes(location);
+        const matchesExperience = experienceVal === 'all' || normalizeExperienceValue(job) === experienceVal;
         const matchesOrg = org === 'all' || (job.organization || '').toLowerCase().includes(org);
 
-        return matchesTerm && matchesTitle && matchesStatus && matchesLocation && matchesOrg;
+        return matchesTerm && matchesTitle && matchesStatus && matchesLocation && matchesExperience && matchesOrg;
       });
 
       render(filtered);
@@ -482,7 +491,7 @@
         console.error(err);
       });
 
-    [searchInput, titleSearchInput, statusSelect, locationInput, organizationInput].forEach(el => {
+    [searchInput, titleSearchInput, statusSelect, locationInput, experienceFilter, organizationInput].forEach(el => {
       el.addEventListener('input', filterJobs);
       el.addEventListener('change', filterJobs);
     });
@@ -509,10 +518,16 @@
       const uniqueLocations = Array.from(new Set(list.map(j => j.location || '').filter(Boolean))).sort();
       const uniqueOrgs = Array.from(new Set(list.map(j => j.organization || '').filter(Boolean))).sort();
       const uniqueTitles = Array.from(new Set(list.map(j => j.title || '').filter(Boolean))).sort();
+      const uniqueExp = Array.from(new Set(list.map(j => normalizeExperienceValue(j)).filter(Boolean))).sort((a, b) => {
+        if (a === '--') return 1;
+        if (b === '--') return -1;
+        return Number(a) - Number(b);
+      });
 
       locationInput.innerHTML = `<option value="all">الكل</option>` + uniqueLocations.map(v => `<option value="${v}">${v}</option>`).join('');
       organizationInput.innerHTML = `<option value="all">الكل</option>` + uniqueOrgs.map(v => `<option value="${v}">${v}</option>`).join('');
       titleSearchInput.innerHTML = `<option value="all">الكل</option>` + uniqueTitles.map(v => `<option value="${v}">${v}</option>`).join('');
+      experienceFilter.innerHTML = `<option value="all">الكل</option>` + uniqueExp.map(v => `<option value="${v}">${v === '--' ? 'غير محدد' : v}</option>`).join('');
     }
 
     function updateLastUpdated() {
