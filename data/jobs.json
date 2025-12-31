@@ -1,7 +1,7 @@
 {
   "source": "https://applyjobs.spac.gov.jo/",
-  "scraped_at": "2025-12-30T14:17:10+00:00",
-  "job_count": 88,
+  "scraped_at": "2025-12-31T05:23:12+00:00",
+  "job_count": 97,
   "jobs": [
     {
       "job_id": "6700",
@@ -23,7 +23,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6700_1736_576413.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6700",
       "status": "open",
-      "scraped_at": "2025-12-30T14:16:47+00:00"
+      "scraped_at": "2025-12-31T05:22:49+00:00"
     },
     {
       "job_id": "6701",
@@ -45,7 +45,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6701_1736_994483.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6701",
       "status": "open",
-      "scraped_at": "2025-12-30T14:16:48+00:00"
+      "scraped_at": "2025-12-31T05:22:49+00:00"
     },
     {
       "job_id": "6799",
@@ -67,7 +67,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6799_1736_894809.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6799",
       "status": "open",
-      "scraped_at": "2025-12-30T14:16:48+00:00"
+      "scraped_at": "2025-12-31T05:22:49+00:00"
     },
     {
       "job_id": "6801",
@@ -89,7 +89,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6801_1736_168064.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6801",
       "status": "open",
-      "scraped_at": "2025-12-30T14:16:48+00:00"
+      "scraped_at": "2025-12-31T05:22:49+00:00"
     },
     {
       "job_id": "6802",
@@ -111,7 +111,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6802_1736_597211.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6802",
       "status": "open",
-      "scraped_at": "2025-12-30T14:16:49+00:00"
+      "scraped_at": "2025-12-31T05:22:50+00:00"
     },
     {
       "job_id": "6803",
@@ -133,7 +133,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6803_1153_838302.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6803",
       "status": "open",
-      "scraped_at": "2025-12-30T14:16:49+00:00"
+      "scraped_at": "2025-12-31T05:22:50+00:00"
     },
     {
       "job_id": "6804",
@@ -155,7 +155,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6804_1153_597816.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6804",
       "status": "open",
-      "scraped_at": "2025-12-30T14:16:49+00:00"
+      "scraped_at": "2025-12-31T05:22:50+00:00"
     },
     {
       "job_id": "6854",
@@ -177,7 +177,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6854_1168_445025.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6854",
       "status": "open",
-      "scraped_at": "2025-12-30T14:16:49+00:00"
+      "scraped_at": "2025-12-31T05:22:50+00:00"
     },
     {
       "job_id": "6855",
@@ -199,7 +199,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6855_1168_687070.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6855",
       "status": "open",
-      "scraped_at": "2025-12-30T14:16:50+00:00"
+      "scraped_at": "2025-12-31T05:22:50+00:00"
     },
     {
       "job_id": "6856",
@@ -221,7 +221,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6856_1168_975785.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6856",
       "status": "open",
-      "scraped_at": "2025-12-30T14:16:50+00:00"
+      "scraped_at": "2025-12-31T05:22:51+00:00"
     },
     {
       "job_id": "6857",
@@ -243,7 +243,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6857_1168_538708.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6857",
       "status": "open",
-      "scraped_at": "2025-12-30T14:16:50+00:00"
+      "scraped_at": "2025-12-31T05:22:51+00:00"
     },
     {
       "job_id": "6858",
@@ -265,7 +265,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6858_1168_726974.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6858",
       "status": "open",
-      "scraped_at": "2025-12-30T14:16:50+00:00"
+      "scraped_at": "2025-12-31T05:22:51+00:00"
     },
     {
       "job_id": "6859",
@@ -287,7 +287,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6859_1168_298513.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6859",
       "status": "open",
-      "scraped_at": "2025-12-30T14:16:51+00:00"
+      "scraped_at": "2025-12-31T05:22:51+00:00"
     },
     {
       "job_id": "6860",
@@ -309,7 +309,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6860_1168_446191.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6860",
       "status": "open",
-      "scraped_at": "2025-12-30T14:16:51+00:00"
+      "scraped_at": "2025-12-31T05:22:52+00:00"
     },
     {
       "job_id": "6861",
@@ -331,7 +331,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6861_1168_682418.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6861",
       "status": "open",
-      "scraped_at": "2025-12-30T14:16:51+00:00"
+      "scraped_at": "2025-12-31T05:22:52+00:00"
     },
     {
       "job_id": "6862",
@@ -353,7 +353,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6862_1168_504107.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6862",
       "status": "open",
-      "scraped_at": "2025-12-30T14:16:51+00:00"
+      "scraped_at": "2025-12-31T05:22:52+00:00"
     },
     {
       "job_id": "6863",
@@ -375,7 +375,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6863_1168_745380.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6863",
       "status": "open",
-      "scraped_at": "2025-12-30T14:16:52+00:00"
+      "scraped_at": "2025-12-31T05:22:52+00:00"
     },
     {
       "job_id": "6864",
@@ -397,7 +397,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6864_1168_192055.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6864",
       "status": "open",
-      "scraped_at": "2025-12-30T14:16:52+00:00"
+      "scraped_at": "2025-12-31T05:22:53+00:00"
     },
     {
       "job_id": "6865",
@@ -419,7 +419,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6865_1168_649545.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6865",
       "status": "open",
-      "scraped_at": "2025-12-30T14:16:52+00:00"
+      "scraped_at": "2025-12-31T05:22:53+00:00"
     },
     {
       "job_id": "6866",
@@ -441,7 +441,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6866_1168_857522.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6866",
       "status": "open",
-      "scraped_at": "2025-12-30T14:16:52+00:00"
+      "scraped_at": "2025-12-31T05:22:53+00:00"
     },
     {
       "job_id": "6867",
@@ -463,7 +463,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6867_1168_970178.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6867",
       "status": "open",
-      "scraped_at": "2025-12-30T14:16:53+00:00"
+      "scraped_at": "2025-12-31T05:22:53+00:00"
     },
     {
       "job_id": "6868",
@@ -485,7 +485,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6868_1168_858627.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6868",
       "status": "open",
-      "scraped_at": "2025-12-30T14:16:53+00:00"
+      "scraped_at": "2025-12-31T05:22:54+00:00"
     },
     {
       "job_id": "6869",
@@ -507,7 +507,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6869_1168_904671.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6869",
       "status": "open",
-      "scraped_at": "2025-12-30T14:16:53+00:00"
+      "scraped_at": "2025-12-31T05:22:54+00:00"
     },
     {
       "job_id": "6870",
@@ -529,293 +529,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6870_1168_319360.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6870",
       "status": "open",
-      "scraped_at": "2025-12-30T14:16:53+00:00"
-    },
-    {
-      "job_id": "6884",
-      "title": "اخصائي مساعد/علم اجتماع او احد فروعه/قصبة جرش",
-      "organization": "وزارة التنميه الاجتماعيه",
-      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى",
-      "experience_text": "---",
-      "experience_raw": "---",
-      "start_date": "2025-12-21",
-      "end_date": "2025-12-30",
-      "qualification": "بكالوريوس -  علم اجتماع",
-      "location": "الشاغر على مستوى اللواء:\r المحافظة: جرش\r\r   • الألوية: قصبه جرش",
-      "gender": "ذكر - أنثى",
-      "age": "مواليد 01/01/1977 فما فوق",
-      "vacancies": 1,
-      "salary": null,
-      "requirements": "اعداد الدراسات الاجتماعية. وتنفيذ خطة ومهام مكتب (التنمية او الخدمة) الاجتماعية. وتقديم خدمات الوزارة لمستحقيها\nبكالوريوس علم اجتماع او احد فروعه\nالتنافس: على لواء جرش\nالجنس: ذكور اناث",
-      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/6884_1303_298503.pdf",
-      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6884_1303_619147.pdf",
-      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6884",
-      "status": "open",
-      "scraped_at": "2025-12-30T14:16:54+00:00"
-    },
-    {
-      "job_id": "6886",
-      "title": "اخصائي مساعد/علم نفس او احد فروعه/ قصبة عمان",
-      "organization": "وزارة التنميه الاجتماعيه",
-      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى",
-      "experience_text": "---",
-      "experience_raw": "---",
-      "start_date": "2025-12-21",
-      "end_date": "2025-12-30",
-      "qualification": "بكالوريوس -  علم نفس وارشاد",
-      "location": "الشاغر على مستوى اللواء:\r المحافظة: العاصمه\r\r   • الألوية: قصبه عمان",
-      "gender": "ذكر - أنثى",
-      "age": "مواليد 01/01/1977 فما فوق",
-      "vacancies": 1,
-      "salary": null,
-      "requirements": "تقييم حالات المنتفعين وقدراتهم العقلية ورصد المشكلات السلوكية للمنتفعين وبناء الخطط العلاجية لحل هذه المشكلات من خلال برامج إعادة التأهيل النفسي.\nبكالوريوس علم نفس وارشاد او احد فروعه.\nالتنافس: لواء قصبة عمان.\nالجنس: ذكور و اناث",
-      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/6886_1303_175554.pdf",
-      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6886_1303_330117.pdf",
-      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6886",
-      "status": "open",
-      "scraped_at": "2025-12-30T14:16:54+00:00"
-    },
-    {
-      "job_id": "6887",
-      "title": "اخصائي مساعد/علم نفس قصبة جرش",
-      "organization": "وزارة التنميه الاجتماعيه",
-      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى",
-      "experience_text": "---",
-      "experience_raw": "---",
-      "start_date": "2025-12-21",
-      "end_date": "2025-12-30",
-      "qualification": "بكالوريوس -  علم نفس وارشاد",
-      "location": "الشاغر على مستوى اللواء:\r المحافظة: جرش\r\r   • الألوية: قصبه جرش",
-      "gender": "ذكر - أنثى",
-      "age": "مواليد 01/01/1977 فما فوق",
-      "vacancies": 1,
-      "salary": null,
-      "requirements": "تقييم حالات المنتفعين وقدراتهم العقلية ورصد المشكلات السلوكية للمنتفعين وبناء الخطط العلاجية لحل هذه المشكلات من خلال برامج إعادة التأهيل النفسي.\nبكالوريوس علم نفس اوراشاد او احد فروعه.\nالتنافس: قصبة جرش\nالجنس: ذكور و اناث",
-      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/6887_1303_406909.pdf",
-      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6887_1303_992388.pdf",
-      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6887",
-      "status": "open",
-      "scraped_at": "2025-12-30T14:16:54+00:00"
-    },
-    {
-      "job_id": "6888",
-      "title": "مراقب كاميرات/قصبة عمان/اناث",
-      "organization": "وزارة التنميه الاجتماعيه",
-      "vacancy_spec": "وظائف الخدمات المساعدة والاعمال حرفية ثانوية عامة فما دون",
-      "experience_text": "---",
-      "experience_raw": "---",
-      "start_date": "2025-12-21",
-      "end_date": "2025-12-30",
-      "qualification": "",
-      "location": "الشاغر على مستوى اللواء:\r المحافظة: العاصمه\r\r   • الألوية: قصبه عمان",
-      "gender": "انثى",
-      "age": "مواليد 01/01/1977 فما فوق",
-      "vacancies": 2,
-      "salary": null,
-      "requirements": "يراقب على سير اعمال المراكز والدور من خلال الكاميرات المخصصة لذلك.\nشرط المبيت والعمل بنظام الورديات (الشفتات).\nتوجيهي ناجح فما دون.\nالتنافس: قصبة عمان.\nالجنس: اناث",
-      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/6888_1303_229991.pdf",
-      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6888_1303_510127.pdf",
-      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6888",
-      "status": "open",
-      "scraped_at": "2025-12-30T14:16:54+00:00"
-    },
-    {
-      "job_id": "6889",
-      "title": "مراقب كاميرات/لواء ماركا/ذكور",
-      "organization": "وزارة التنميه الاجتماعيه",
-      "vacancy_spec": "وظائف الخدمات المساعدة والاعمال حرفية ثانوية عامة فما دون",
-      "experience_text": "---",
-      "experience_raw": "---",
-      "start_date": "2025-12-21",
-      "end_date": "2025-12-30",
-      "qualification": "",
-      "location": "الشاغر على مستوى اللواء:\r المحافظة: العاصمه\r\r   • الألوية: ماركا",
-      "gender": "ذكر",
-      "age": "مواليد 01/01/1977 فما فوق",
-      "vacancies": 2,
-      "salary": null,
-      "requirements": "يراقب على سير اعمال المراكز والدور من خلال الكاميرات المخصصة لذلك.\nشرط المبيت والعمل بنظام الورديات (الشفتات).\nتوجيهي ناجح فما دون\nالتنافس: لواء ماركا\nالجنس: ذكور",
-      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/6889_1303_361905.pdf",
-      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6889_1303_733671.pdf",
-      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6889",
-      "status": "open",
-      "scraped_at": "2025-12-30T14:16:55+00:00"
-    },
-    {
-      "job_id": "6890",
-      "title": "مراقب كاميرات/لواء الرصيفة/ذكور",
-      "organization": "وزارة التنميه الاجتماعيه",
-      "vacancy_spec": "وظائف الخدمات المساعدة والاعمال حرفية ثانوية عامة فما دون",
-      "experience_text": "---",
-      "experience_raw": "---",
-      "start_date": "2025-12-21",
-      "end_date": "2025-12-30",
-      "qualification": "",
-      "location": "الشاغر على مستوى اللواء:\r المحافظة: الزرقاء\r\r   • الألوية: الرصيفه",
-      "gender": "ذكر",
-      "age": "مواليد 01/01/1977 فما فوق",
-      "vacancies": 2,
-      "salary": null,
-      "requirements": "يراقب على سير اعمال المراكز والدور من خلال الكاميرات المخصصة لذلك.\nشرط المبيت والعمل بنظام الورديات (الشفتات).\nتوجيهي ناجح فما دون.\nمستوى التنافس: لواء الرصيفة.\nالجنس: ذكور",
-      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/6890_1303_106051.pdf",
-      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6890_1303_872280.pdf",
-      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6890",
-      "status": "open",
-      "scraped_at": "2025-12-30T14:16:55+00:00"
-    },
-    {
-      "job_id": "6891",
-      "title": "مراقب كاميرات/لواء قصبة اربد/ذكور",
-      "organization": "وزارة التنميه الاجتماعيه",
-      "vacancy_spec": "وظائف الخدمات المساعدة والاعمال حرفية ثانوية عامة فما دون",
-      "experience_text": "---",
-      "experience_raw": "---",
-      "start_date": "2025-12-21",
-      "end_date": "2025-12-30",
-      "qualification": "",
-      "location": "الشاغر على مستوى اللواء:\r المحافظة: اربد\r\r   • الألوية: قصبه اربد",
-      "gender": "ذكر",
-      "age": "مواليد 01/01/1977 فما فوق",
-      "vacancies": 2,
-      "salary": null,
-      "requirements": "يراقب على سير اعمال المراكز والدور من خلال الكاميرات المخصصة لذلك.\nشرط المبيت والعمل بنظام الورديات (الشفتات).\nتوجيهي ناجح فما دون\nالتنافس: لواء قصبة اربد\nالجنس: ذكور",
-      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/6891_1303_715844.pdf",
-      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6891_1303_181504.pdf",
-      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6891",
-      "status": "open",
-      "scraped_at": "2025-12-30T14:16:55+00:00"
-    },
-    {
-      "job_id": "6892",
-      "title": "سائق فئة 5/لواء بادية شمالية غربية",
-      "organization": "وزارة التنميه الاجتماعيه",
-      "vacancy_spec": "وظائف الخدمات المساعدة والاعمال حرفية ثانوية عامة فما دون",
-      "experience_text": "---",
-      "experience_raw": "---",
-      "start_date": "2025-12-21",
-      "end_date": "2025-12-30",
-      "qualification": "",
-      "location": "الشاغر على مستوى اللواء:\r المحافظة: المفرق\r\r   • الألوية: الباديه الشماليه الغربيه",
-      "gender": "ذكر",
-      "age": "مواليد 01/01/1977 فما فوق",
-      "vacancies": 1,
-      "salary": null,
-      "requirements": "قيادة المركبة وفقا لبرنامج امر الحركة والمحافظة على سلامة المركبة والتفقد الدوري لاحتياجات المركبة.\nتوجيهي ناجح فما دون\nرخصة سوق فئة خامسة على الاقل\nلواء بادية شمالية غربية\nالجنس: ذكر",
-      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/6892_1303_959587.pdf",
-      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6892_1303_427463.pdf",
-      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6892",
-      "status": "open",
-      "scraped_at": "2025-12-30T14:16:55+00:00"
-    },
-    {
-      "job_id": "6893",
-      "title": "مراقب ثالث/دبلوم علوم الحاسوب/ذكور",
-      "organization": "وزارة التنميه الاجتماعيه",
-      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى",
-      "experience_text": "---",
-      "experience_raw": "---",
-      "start_date": "2025-12-21",
-      "end_date": "2025-12-30",
-      "qualification": "دبلوم كليه مجتمع -  علوم الحاسب الالي",
-      "location": "الشاغر على مستوى المملكة",
-      "gender": "ذكر",
-      "age": "مواليد 01/01/1977 فما فوق",
-      "vacancies": 4,
-      "salary": null,
-      "requirements": "مراقبة الكاميرات في غرفة المراقبة المركزية في مركز الوزارة ومكانها العاصمة.\nشرط المبيت والعمل بنظام الورديات (الشفتات).\nدبلوم شامل ناجح علوم الحاسوب\nالتنافس: المملكة.\nالجنس: ذكور",
-      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/6893_1303_648790.pdf",
-      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6893_1303_917415.pdf",
-      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6893",
-      "status": "open",
-      "scraped_at": "2025-12-30T14:16:56+00:00"
-    },
-    {
-      "job_id": "6894",
-      "title": "مراقب ثالث/دبلوم علوم الحاسوب/اناث",
-      "organization": "وزارة التنميه الاجتماعيه",
-      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى",
-      "experience_text": "---",
-      "experience_raw": "---",
-      "start_date": "2025-12-21",
-      "end_date": "2025-12-30",
-      "qualification": "دبلوم كليه مجتمع -  علوم الحاسب الالي",
-      "location": "الشاغر على مستوى المملكة",
-      "gender": "انثى",
-      "age": "مواليد 01/01/1977 فما فوق",
-      "vacancies": 6,
-      "salary": null,
-      "requirements": "مراقبة الكاميرات في غرفة المراقبة المركزية في مركز الوزارة ومكانها العاصمة.\nشرط المبيت والعمل بنظام الورديات (الشفتات).\nدبلوم شامل ناجح علوم الحاسوب\nمستوى التنافس: المملكة\nالجنس: انثى",
-      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/6894_1303_428295.pdf",
-      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6894_1303_240193.pdf",
-      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6894",
-      "status": "open",
-      "scraped_at": "2025-12-30T14:16:56+00:00"
-    },
-    {
-      "job_id": "6895",
-      "title": "اخصائي مساعد/ اوائل افواج/بكالوريوس علم اجتماع او احد فروعه",
-      "organization": "وزارة التنميه الاجتماعيه",
-      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى  و( شواغر اوائل )",
-      "experience_text": "---",
-      "experience_raw": "---",
-      "start_date": "2025-12-21",
-      "end_date": "2025-12-30",
-      "qualification": "بكالوريوس -  علم اجتماع",
-      "location": "الشاغر على مستوى المملكة",
-      "gender": "ذكر - أنثى",
-      "age": "مواليد 01/01/1977 فما فوق",
-      "vacancies": 2,
-      "salary": null,
-      "requirements": "اعداد الدراسات الاجتماعية. وتنفيذ خطة ومهام مكتب (التنمية او الخدمة) الاجتماعية. وتقديم خدمات الوزارة لمستحقيها.\nان يكون من اوائل الافواج الجامعية (2022/2023/2024)\nارفق وثيقة تثبت بانه اوئل افواج السنوات اعلاه.\nبكالوريوس علم اجتماع او احد فروعه\nمستوى التنافس: المملكة\nالجنس: ذكور و اناث\nبخصوص أوائل الافواج الجامعية من خرجي الجامعات الأردنية من حملة درجة البكالوريوس في التخصصات المطلوبة في الإعلان المرفق يشترط لا يكون المتقدم من المتقاعدين المدنيين او العسكريين والعاملين في القطاع العام المدني والعسكري والجامعات الرسمية والبلديات وامانة عمان والمجلس الأعلى للعلوم والتكنولوجيا والمراكز التابعة له.",
-      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/6895_1303_688841.pdf",
-      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6895_1303_225899.pdf",
-      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6895",
-      "status": "open",
-      "scraped_at": "2025-12-30T14:16:56+00:00"
-    },
-    {
-      "job_id": "6896",
-      "title": "اخصائي مساعد/ اوائل افواج/بكالوريوس علم نفس وارشاد او احد فروعه",
-      "organization": "وزارة التنميه الاجتماعيه",
-      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى  و( شواغر اوائل )",
-      "experience_text": "---",
-      "experience_raw": "---",
-      "start_date": "2025-12-21",
-      "end_date": "2025-12-30",
-      "qualification": "بكالوريوس -  علم نفس وارشاد",
-      "location": "الشاغر على مستوى المملكة",
-      "gender": "ذكر - أنثى",
-      "age": "مواليد 01/01/1977 فما فوق",
-      "vacancies": 2,
-      "salary": null,
-      "requirements": "تقييم حالات المنتفعين وقدراتهم العقلية ورصد المشكلات السلوكية للمنتفعين وبناء الخطط العلاجية لحل هذه المشكلات من خلال برامج إعادة التأهيل النفسي.\nان يكون من اوائل الافواج الجامعية (2022/2023/2024)\nارفق وثيقة تثبت بانه اوئل افواج السنوات اعلاه.\nبكالوريوس نفس او احد فروعه\nمستوى التنافس: المملكة\nالجنس: ذكور و اناث\nبخصوص أوائل الافواج الجامعية من خرجي الجامعات الأردنية من حملة درجة البكالوريوس في التخصصات المطلوبة في الإعلان المرفق يشترط لا يكون المتقدم من المتقاعدين المدنيين او العسكريين والعاملين في القطاع العام المدني والعسكري والجامعات الرسمية والبلديات وامانة عمان والمجلس الأعلى للعلوم والتكنولوجيا والمراكز التابعة له.",
-      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/6896_1303_641039.pdf",
-      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6896_1303_479032.pdf",
-      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6896",
-      "status": "open",
-      "scraped_at": "2025-12-30T14:16:56+00:00"
-    },
-    {
-      "job_id": "6897",
-      "title": "مربية/دبلوم تربية طفل او طفولة مبكرة/ اناث/ قصبة عمان",
-      "organization": "وزارة التنميه الاجتماعيه",
-      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى",
-      "experience_text": "---",
-      "experience_raw": "---",
-      "start_date": "2025-12-21",
-      "end_date": "2025-12-30",
-      "qualification": "دبلوم كليه مجتمع -  تطبيقي/تربية طفل",
-      "location": "الشاغر على مستوى اللواء:\r المحافظة: العاصمه\r\r   • الألوية: قصبه عمان",
-      "gender": "انثى",
-      "age": "مواليد 01/01/1977 فما فوق",
-      "vacancies": 1,
-      "salary": null,
-      "requirements": "تقوم مقام الام وتلبية احتياجات الأطفال ورعايتهم.\nشرط المبيت والعمل بنظا م الورديات (الشفتات)\nدبلوم شامل ناجح (تربية طفل او طفولة مبكرة).\nالتنافس: لواء قصبة عمان\nالجنس: انثى",
-      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/6897_1303_698257.pdf",
-      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6897_1303_771954.pdf",
-      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6897",
-      "status": "open",
-      "scraped_at": "2025-12-30T14:16:57+00:00"
+      "scraped_at": "2025-12-31T05:22:54+00:00"
     },
     {
       "job_id": "6900",
@@ -837,7 +551,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6900_1411_129786.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6900",
       "status": "open",
-      "scraped_at": "2025-12-30T14:16:57+00:00"
+      "scraped_at": "2025-12-31T05:22:54+00:00"
     },
     {
       "job_id": "6903",
@@ -859,7 +573,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6903_1411_275095.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6903",
       "status": "open",
-      "scraped_at": "2025-12-30T14:16:57+00:00"
+      "scraped_at": "2025-12-31T05:22:55+00:00"
     },
     {
       "job_id": "6905",
@@ -881,7 +595,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6905_1411_471734.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6905",
       "status": "open",
-      "scraped_at": "2025-12-30T14:16:57+00:00"
+      "scraped_at": "2025-12-31T05:22:55+00:00"
     },
     {
       "job_id": "6906",
@@ -903,7 +617,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6906_1413_734191.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6906",
       "status": "open",
-      "scraped_at": "2025-12-30T14:16:58+00:00"
+      "scraped_at": "2025-12-31T05:22:55+00:00"
     },
     {
       "job_id": "6907",
@@ -925,7 +639,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6907_1413_799476.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6907",
       "status": "open",
-      "scraped_at": "2025-12-30T14:16:58+00:00"
+      "scraped_at": "2025-12-31T05:22:55+00:00"
     },
     {
       "job_id": "6908",
@@ -947,7 +661,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6908_1413_245447.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6908",
       "status": "open",
-      "scraped_at": "2025-12-30T14:16:58+00:00"
+      "scraped_at": "2025-12-31T05:22:55+00:00"
     },
     {
       "job_id": "6909",
@@ -969,7 +683,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6909_1411_530149.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6909",
       "status": "open",
-      "scraped_at": "2025-12-30T14:16:58+00:00"
+      "scraped_at": "2025-12-31T05:22:56+00:00"
     },
     {
       "job_id": "6910",
@@ -991,7 +705,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6910_1411_612874.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6910",
       "status": "open",
-      "scraped_at": "2025-12-30T14:16:59+00:00"
+      "scraped_at": "2025-12-31T05:22:56+00:00"
     },
     {
       "job_id": "6912",
@@ -1013,7 +727,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6912_1411_752555.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6912",
       "status": "open",
-      "scraped_at": "2025-12-30T14:16:59+00:00"
+      "scraped_at": "2025-12-31T05:22:56+00:00"
     },
     {
       "job_id": "6913",
@@ -1035,7 +749,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6913_1411_659543.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6913",
       "status": "open",
-      "scraped_at": "2025-12-30T14:16:59+00:00"
+      "scraped_at": "2025-12-31T05:22:56+00:00"
     },
     {
       "job_id": "6914",
@@ -1057,7 +771,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6914_1411_839449.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6914",
       "status": "open",
-      "scraped_at": "2025-12-30T14:17:00+00:00"
+      "scraped_at": "2025-12-31T05:22:57+00:00"
     },
     {
       "job_id": "6915",
@@ -1079,7 +793,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6915_1411_457935.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6915",
       "status": "open",
-      "scraped_at": "2025-12-30T14:17:00+00:00"
+      "scraped_at": "2025-12-31T05:22:57+00:00"
     },
     {
       "job_id": "6916",
@@ -1101,7 +815,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6916_1411_226581.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6916",
       "status": "open",
-      "scraped_at": "2025-12-30T14:17:00+00:00"
+      "scraped_at": "2025-12-31T05:22:57+00:00"
     },
     {
       "job_id": "6917",
@@ -1123,7 +837,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6917_1411_826451.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6917",
       "status": "open",
-      "scraped_at": "2025-12-30T14:17:00+00:00"
+      "scraped_at": "2025-12-31T05:22:57+00:00"
     },
     {
       "job_id": "6918",
@@ -1145,7 +859,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6918_1411_256518.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6918",
       "status": "open",
-      "scraped_at": "2025-12-30T14:17:01+00:00"
+      "scraped_at": "2025-12-31T05:22:58+00:00"
     },
     {
       "job_id": "6919",
@@ -1167,7 +881,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6919_1411_677821.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6919",
       "status": "open",
-      "scraped_at": "2025-12-30T14:17:01+00:00"
+      "scraped_at": "2025-12-31T05:22:58+00:00"
     },
     {
       "job_id": "6920",
@@ -1189,7 +903,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6920_1411_904762.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6920",
       "status": "open",
-      "scraped_at": "2025-12-30T14:17:01+00:00"
+      "scraped_at": "2025-12-31T05:22:58+00:00"
     },
     {
       "job_id": "6921",
@@ -1211,7 +925,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6921_1411_159162.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6921",
       "status": "open",
-      "scraped_at": "2025-12-30T14:17:01+00:00"
+      "scraped_at": "2025-12-31T05:22:58+00:00"
     },
     {
       "job_id": "6922",
@@ -1233,7 +947,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6922_1411_929479.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6922",
       "status": "open",
-      "scraped_at": "2025-12-30T14:17:02+00:00"
+      "scraped_at": "2025-12-31T05:22:59+00:00"
     },
     {
       "job_id": "6923",
@@ -1255,7 +969,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6923_1411_244745.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6923",
       "status": "open",
-      "scraped_at": "2025-12-30T14:17:02+00:00"
+      "scraped_at": "2025-12-31T05:22:59+00:00"
     },
     {
       "job_id": "6924",
@@ -1277,7 +991,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6924_1411_298104.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6924",
       "status": "open",
-      "scraped_at": "2025-12-30T14:17:02+00:00"
+      "scraped_at": "2025-12-31T05:22:59+00:00"
     },
     {
       "job_id": "6925",
@@ -1299,139 +1013,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6925_1411_122214.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6925",
       "status": "open",
-      "scraped_at": "2025-12-30T14:17:02+00:00"
-    },
-    {
-      "job_id": "6929",
-      "title": "مدخل بيانات/العقبة/ الحمولات المحورية/جديد",
-      "organization": "وزارة الاشغال العامة والاسكان",
-      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى",
-      "experience_text": "---",
-      "experience_raw": "---",
-      "start_date": "2025-12-21",
-      "end_date": "2025-12-30",
-      "qualification": "دبلوم كليه مجتمع",
-      "location": "الشاغر على مستوى المحافظة: العقبه",
-      "gender": "ذكر",
-      "age": "مواليد 01/01/1990 فما فوق",
-      "vacancies": 2,
-      "salary": null,
-      "requirements": "1-1- أن يكون المتقدم من مواليد 1990 فما بعد .\n2- أن يكون المتقدم حاصل على مؤهل غلمي دبلوم الشامل تخصص ( نظم معلومات ادارية أو إدارة أعمال أو علم الحاسب الآلي )  .\n3- علمًا بأن العمل سوف يكون في مديرية الحمولات محورية .",
-      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/6929_1175_515436.pdf",
-      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6929_1175_220195.pdf",
-      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6929",
-      "status": "open",
-      "scraped_at": "2025-12-30T14:17:03+00:00"
-    },
-    {
-      "job_id": "6930",
-      "title": "مدخل بيانات/الزرقاء/الحمولات المحورية/الجديد",
-      "organization": "وزارة الاشغال العامة والاسكان",
-      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى",
-      "experience_text": "---",
-      "experience_raw": "---",
-      "start_date": "2025-12-21",
-      "end_date": "2025-12-30",
-      "qualification": "دبلوم كليه مجتمع",
-      "location": "الشاغر على مستوى المحافظة: الزرقاء",
-      "gender": "ذكر",
-      "age": "مواليد 01/01/1990 فما فوق",
-      "vacancies": 2,
-      "salary": null,
-      "requirements": "11- أن يكون المتقدم من مواليد 1990 فما بعد .\n2- أن يكون المتقدم حاصل على مؤهل غلمي دبلوم الشامل تخصص ( نظم معلومات ادارية أو إدارة أعمال أو علم الحاسب الآلي )  .\n3- علمًا بأن العمل سوف يكون في مديرية الحمولات محورية .",
-      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/6930_1175_601062.pdf",
-      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6930_1175_116324.pdf",
-      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6930",
-      "status": "open",
-      "scraped_at": "2025-12-30T14:17:03+00:00"
-    },
-    {
-      "job_id": "6931",
-      "title": "مدخل بيانات/المفرق/الحمولات المحورية/الجديد",
-      "organization": "وزارة الاشغال العامة والاسكان",
-      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى",
-      "experience_text": "---",
-      "experience_raw": "---",
-      "start_date": "2025-12-21",
-      "end_date": "2025-12-30",
-      "qualification": "دبلوم كليه مجتمع",
-      "location": "الشاغر على مستوى المحافظة: المفرق",
-      "gender": "ذكر",
-      "age": "مواليد 01/01/1990 فما فوق",
-      "vacancies": 2,
-      "salary": null,
-      "requirements": "1- أن يكون المتقدم من مواليد 1990 فما بعد .\n2- أن يكون المتقدم حاصل على مؤهل غلمي دبلوم الشامل تخصص ( نظم معلومات ادارية أو إدارة أعمال أو علم الحاسب الآلي )  .\n3- علمًا بأن العمل سوف يكون في مديرية الحمولات محورية .",
-      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/6931_1175_751047.pdf",
-      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6931_1175_639605.pdf",
-      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6931",
-      "status": "open",
-      "scraped_at": "2025-12-30T14:17:03+00:00"
-    },
-    {
-      "job_id": "6932",
-      "title": "محاسب/الزرقاء/الحمولات المحورية/الجديد",
-      "organization": "وزارة الاشغال العامة والاسكان",
-      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى",
-      "experience_text": "---",
-      "experience_raw": "---",
-      "start_date": "2025-12-21",
-      "end_date": "2025-12-30",
-      "qualification": "دبلوم كليه مجتمع -  محاسبة",
-      "location": "الشاغر على مستوى المحافظة: الزرقاء",
-      "gender": "ذكر",
-      "age": "مواليد 01/01/1990 فما فوق",
-      "vacancies": 1,
-      "salary": null,
-      "requirements": "1- أن يكون المتقدم من مواليد 1990 فما بعد .\n2- أن يكون المتقدم حاصل على مؤهل غلمي دبلوم الشامل تخصص ( محاسبة أو نظم معلومات محاسبية )  .\n3- علمًا بأن العمل سوف يكون في مديرية الحمولات محورية .",
-      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/6932_1175_742458.pdf",
-      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6932_1175_112720.pdf",
-      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6932",
-      "status": "open",
-      "scraped_at": "2025-12-30T14:17:03+00:00"
-    },
-    {
-      "job_id": "6933",
-      "title": "محاسب/الكرك/الحمولات المحورية/الجديد",
-      "organization": "وزارة الاشغال العامة والاسكان",
-      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى",
-      "experience_text": "---",
-      "experience_raw": "---",
-      "start_date": "2025-12-21",
-      "end_date": "2025-12-30",
-      "qualification": "دبلوم كليه مجتمع -  محاسبة",
-      "location": "الشاغر على مستوى المحافظة: الكرك",
-      "gender": "ذكر",
-      "age": "مواليد 01/01/1990 فما فوق",
-      "vacancies": 1,
-      "salary": null,
-      "requirements": "1- أن يكون المتقدم من مواليد 1990 فما بعد .\n2- أن يكون المتقدم حاصل على مؤهل غلمي دبلوم الشامل تخصص ( محاسبة أو نظم معلومات محاسبية )  .\n3- علمًا بأن العمل سوف يكون في مديرية الحمولات محورية .",
-      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/6933_1175_891991.pdf",
-      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6933_1175_878513.pdf",
-      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6933",
-      "status": "open",
-      "scraped_at": "2025-12-30T14:17:04+00:00"
-    },
-    {
-      "job_id": "6934",
-      "title": "محاسب/العقبة/الحمولات المحورية/الجديد",
-      "organization": "وزارة الاشغال العامة والاسكان",
-      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى",
-      "experience_text": "---",
-      "experience_raw": "---",
-      "start_date": "2025-12-21",
-      "end_date": "2025-12-30",
-      "qualification": "دبلوم كليه مجتمع -  محاسبة",
-      "location": "الشاغر على مستوى المحافظة: العقبه",
-      "gender": "ذكر",
-      "age": "مواليد 01/01/1990 فما فوق",
-      "vacancies": 2,
-      "salary": null,
-      "requirements": "1- أن يكون المتقدم من مواليد 1990 فما بعد .\n2- أن يكون المتقدم حاصل على مؤهل غلمي دبلوم الشامل تخصص ( محاسبة أو نظم معلومات محاسبية )  .\n3- علمًا بأن العمل سوف يكون في مديرية الحمولات محورية .",
-      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/6934_1175_807824.pdf",
-      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6934_1175_667020.pdf",
-      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6934",
-      "status": "open",
-      "scraped_at": "2025-12-30T14:17:04+00:00"
+      "scraped_at": "2025-12-31T05:22:59+00:00"
     },
     {
       "job_id": "6956",
@@ -1453,7 +1035,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6956_1585_208041.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6956",
       "status": "open",
-      "scraped_at": "2025-12-30T14:17:04+00:00"
+      "scraped_at": "2025-12-31T05:22:59+00:00"
     },
     {
       "job_id": "6957",
@@ -1475,7 +1057,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6957_1185_211280.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6957",
       "status": "open",
-      "scraped_at": "2025-12-30T14:17:05+00:00"
+      "scraped_at": "2025-12-31T05:23:00+00:00"
     },
     {
       "job_id": "6958",
@@ -1497,7 +1079,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6958_1585_960509.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6958",
       "status": "open",
-      "scraped_at": "2025-12-30T14:17:05+00:00"
+      "scraped_at": "2025-12-31T05:23:00+00:00"
     },
     {
       "job_id": "6959",
@@ -1519,7 +1101,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6959_1585_359922.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6959",
       "status": "open",
-      "scraped_at": "2025-12-30T14:17:05+00:00"
+      "scraped_at": "2025-12-31T05:23:00+00:00"
     },
     {
       "job_id": "6960",
@@ -1541,29 +1123,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6960_1185_827024.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6960",
       "status": "open",
-      "scraped_at": "2025-12-30T14:17:05+00:00"
-    },
-    {
-      "job_id": "6962",
-      "title": "اخصائي مساعد/ علم اجتماع/لواء الموقر/ذكور",
-      "organization": "وزارة التنميه الاجتماعيه",
-      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى",
-      "experience_text": "---",
-      "experience_raw": "---",
-      "start_date": "2025-12-21",
-      "end_date": "2025-12-30",
-      "qualification": "بكالوريوس -  علم اجتماع",
-      "location": "الشاغر على مستوى اللواء:\r المحافظة: العاصمه\r\r   • الألوية: الموقر",
-      "gender": "ذكر",
-      "age": "مواليد 01/01/1977 فما فوق",
-      "vacancies": 1,
-      "salary": null,
-      "requirements": "اعداد الدراسات الاجتماعية. وتنفيذ خطة ومهام مكتب (التنمية او الخدمة) الاجتماعية. وتقديم خدمات الوزارة لمستحقيها.\nبكالوريوس علم اجتماع او احد فروعه\nالتنافس: على لواء الموقر\nالجنس: ذكور",
-      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/6962_1303_138487.pdf",
-      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6962_1303_599258.pdf",
-      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6962",
-      "status": "open",
-      "scraped_at": "2025-12-30T14:17:06+00:00"
+      "scraped_at": "2025-12-31T05:23:00+00:00"
     },
     {
       "job_id": "6964",
@@ -1585,7 +1145,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6964_1585_269101.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6964",
       "status": "open",
-      "scraped_at": "2025-12-30T14:17:06+00:00"
+      "scraped_at": "2025-12-31T05:23:01+00:00"
     },
     {
       "job_id": "6965",
@@ -1607,7 +1167,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6965_1585_773526.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6965",
       "status": "open",
-      "scraped_at": "2025-12-30T14:17:06+00:00"
+      "scraped_at": "2025-12-31T05:23:01+00:00"
     },
     {
       "job_id": "6969",
@@ -1629,7 +1189,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6969_1585_656118.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6969",
       "status": "open",
-      "scraped_at": "2025-12-30T14:17:06+00:00"
+      "scraped_at": "2025-12-31T05:23:01+00:00"
     },
     {
       "job_id": "7012",
@@ -1651,7 +1211,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7012_1391_877803.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7012",
       "status": "open",
-      "scraped_at": "2025-12-30T14:17:07+00:00"
+      "scraped_at": "2025-12-31T05:23:01+00:00"
     },
     {
       "job_id": "7019",
@@ -1673,7 +1233,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7019_1391_268899.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7019",
       "status": "open",
-      "scraped_at": "2025-12-30T14:17:07+00:00"
+      "scraped_at": "2025-12-31T05:23:02+00:00"
     },
     {
       "job_id": "7036",
@@ -1695,7 +1255,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7036_1300_606708.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7036",
       "status": "open",
-      "scraped_at": "2025-12-30T14:17:07+00:00"
+      "scraped_at": "2025-12-31T05:23:02+00:00"
     },
     {
       "job_id": "7037",
@@ -1717,7 +1277,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7037_1300_874451.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7037",
       "status": "open",
-      "scraped_at": "2025-12-30T14:17:07+00:00"
+      "scraped_at": "2025-12-31T05:23:02+00:00"
     },
     {
       "job_id": "7038",
@@ -1739,7 +1299,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7038_1441_965536.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7038",
       "status": "open",
-      "scraped_at": "2025-12-30T14:17:07+00:00"
+      "scraped_at": "2025-12-31T05:23:02+00:00"
     },
     {
       "job_id": "7039",
@@ -1761,7 +1321,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7039_1300_383433.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7039",
       "status": "open",
-      "scraped_at": "2025-12-30T14:17:08+00:00"
+      "scraped_at": "2025-12-31T05:23:03+00:00"
     },
     {
       "job_id": "7040",
@@ -1783,7 +1343,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7040_1300_931475.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7040",
       "status": "open",
-      "scraped_at": "2025-12-30T14:17:08+00:00"
+      "scraped_at": "2025-12-31T05:23:03+00:00"
     },
     {
       "job_id": "7041",
@@ -1805,7 +1365,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7041_1300_821910.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7041",
       "status": "open",
-      "scraped_at": "2025-12-30T14:17:08+00:00"
+      "scraped_at": "2025-12-31T05:23:03+00:00"
     },
     {
       "job_id": "7042",
@@ -1827,7 +1387,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7042_1300_943357.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7042",
       "status": "open",
-      "scraped_at": "2025-12-30T14:17:09+00:00"
+      "scraped_at": "2025-12-31T05:23:03+00:00"
     },
     {
       "job_id": "7043",
@@ -1849,7 +1409,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7043_1300_587345.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7043",
       "status": "open",
-      "scraped_at": "2025-12-30T14:17:09+00:00"
+      "scraped_at": "2025-12-31T05:23:04+00:00"
     },
     {
       "job_id": "7045",
@@ -1871,7 +1431,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7045_1300_494330.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7045",
       "status": "open",
-      "scraped_at": "2025-12-30T14:17:09+00:00"
+      "scraped_at": "2025-12-31T05:23:04+00:00"
     },
     {
       "job_id": "7050",
@@ -1893,7 +1453,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7050_1300_589724.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7050",
       "status": "open",
-      "scraped_at": "2025-12-30T14:17:09+00:00"
+      "scraped_at": "2025-12-31T05:23:04+00:00"
     },
     {
       "job_id": "7052",
@@ -1915,7 +1475,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7052_1300_625333.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7052",
       "status": "open",
-      "scraped_at": "2025-12-30T14:17:10+00:00"
+      "scraped_at": "2025-12-31T05:23:04+00:00"
     },
     {
       "job_id": "7055",
@@ -1937,7 +1497,645 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7055_1300_768449.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7055",
       "status": "open",
-      "scraped_at": "2025-12-30T14:17:10+00:00"
+      "scraped_at": "2025-12-31T05:23:05+00:00"
+    },
+    {
+      "job_id": "7082",
+      "title": "واعظة/جرش/قصبةجرش/قضاء برما",
+      "organization": "وزارةالاوقاف والشؤون والمقدسات الاسلاميه",
+      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى",
+      "experience_text": "---",
+      "experience_raw": "---",
+      "start_date": "2025-12-31",
+      "end_date": "2026-01-11",
+      "qualification": "بكالوريوس -  شريعةودراسات اسلاميه",
+      "location": "الشاغر على مستوى القضاء:\r المحافظة: جرش\r\r   • الألوية: قصبه جرش\r   • الأقضية: برما",
+      "gender": "انثى",
+      "age": "مواليد 01/01/1978 فما فوق",
+      "vacancies": 1,
+      "salary": null,
+      "requirements": "1-\tعلى المتقدم ان يكون من مواليد 1978 وما بعد.\n2-\tان يكون اردني الجنسية.\n3-\tان يكون لائقاً صحياً وغير محكوم بأية جناية أو جنحة مخلة بالشرف والأداب العامة.\n4-\tأن لا يكون المتقدم من المتقاعدين المدنيين أو العسكريين أو متقاعدي الضمان الاجتماعي .\n5-\tأن يكون مكان الإقامة حسب بطاقة الأحوال المدنية مطابق لمكان الوظيفة.",
+      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/7082_1309_470778.docx",
+      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7082_1309_238196.docx",
+      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7082",
+      "status": "open",
+      "scraped_at": "2025-12-31T05:23:05+00:00"
+    },
+    {
+      "job_id": "7086",
+      "title": "امام مساعد/البلقاء/لواء دير علا",
+      "organization": "وزارةالاوقاف والشؤون والمقدسات الاسلاميه",
+      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى",
+      "experience_text": "---",
+      "experience_raw": "---",
+      "start_date": "2025-12-31",
+      "end_date": "2026-01-11",
+      "qualification": "دبلوم كليه مجتمع -  شريعةودراسات اسلاميه",
+      "location": "الشاغر على مستوى اللواء:\r المحافظة: البلقاء\r\r   • الألوية: دير علا",
+      "gender": "ذكر",
+      "age": "مواليد 01/01/1978 فما فوق",
+      "vacancies": 1,
+      "salary": null,
+      "requirements": "1-\tعلى المتقدم ان يكون من مواليد 1978 وما بعد.\n2-\tان يكون اردني الجنسية.\n3-\tان يكون لائقاً صحياً وغير محكوم بأية جناية أو جنحة مخلة بالشرف والأداب العامة.\n4-\tأن لا يكون المتقدم من المتقاعدين المدنيين أو العسكريين أو متقاعدي الضمان الاجتماعي .\n5-\tأن يكون مكان الإقامة حسب بطاقة الأحوال المدنية مطابق لمكان الوظيفة.",
+      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/7086_1309_374279.docx",
+      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7086_1309_165378.docx",
+      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7086",
+      "status": "open",
+      "scraped_at": "2025-12-31T05:23:05+00:00"
+    },
+    {
+      "job_id": "7087",
+      "title": "واعظة /المملكة/اوائل افواج جامعية",
+      "organization": "وزارةالاوقاف والشؤون والمقدسات الاسلاميه",
+      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى  و( شواغر اوائل )",
+      "experience_text": "---",
+      "experience_raw": "---",
+      "start_date": "2025-12-31",
+      "end_date": "2026-01-11",
+      "qualification": "بكالوريوس -  شريعةودراسات اسلاميه",
+      "location": "الشاغر على مستوى المملكة",
+      "gender": "انثى",
+      "age": "دون تحديد",
+      "vacancies": 7,
+      "salary": null,
+      "requirements": "١-\tان لا يكون قد مضى على التخرج أكثر من ثلاث أعوام جامعية (2022/2023/2024).\n2-\tحاصلة على وثيقة صادرة عن الجامعة تثبت حصول المتقدمة على الترتيب الأول على الفوج الجامعي للسنوات المحددة أعلاه.\n3-\tان تكون اردنية الجنسية.\n4-\tان تكون لائقة صحياً وغير محكومة بأية جناية أو جنحة مخلة بالشرف والأداب العامة.\n5-\tأن لا تكون المتقدمة من المتقاعدين المدنيين أو العسكريين والعاملين في القطاع العام المدني والعسكري والجامعات الرسمية والبلديات وامانة عمان والمجلس الاعلى للعلوم والتكنولوجيا والمراكز العلمية التابعة له  .",
+      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/7087_1309_970169.docx",
+      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7087_1309_657739.docx",
+      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7087",
+      "status": "open",
+      "scraped_at": "2025-12-31T05:23:05+00:00"
+    },
+    {
+      "job_id": "7089",
+      "title": "واعظة/اربد/لواء الرمثا",
+      "organization": "وزارةالاوقاف والشؤون والمقدسات الاسلاميه",
+      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى",
+      "experience_text": "---",
+      "experience_raw": "---",
+      "start_date": "2025-12-31",
+      "end_date": "2026-01-11",
+      "qualification": "بكالوريوس -  شريعةودراسات اسلاميه",
+      "location": "الشاغر على مستوى اللواء:\r المحافظة: اربد\r\r   • الألوية: الرمثا",
+      "gender": "انثى",
+      "age": "مواليد 01/01/1978 فما فوق",
+      "vacancies": 1,
+      "salary": null,
+      "requirements": "1- على المتقدم ان يكون من مواليد 1978 وما بعد.\n2- ان يكون اردني الجنسية.\n3- ان يكون لائقاً صحياً وغير محكوم بأية جناية أو جنحة مخلة بالشرف والأداب العامة.\n4- أن لا يكون المتقدم من المتقاعدين المدنيين أو العسكريين أو متقاعدي الضمان الاجتماعي .\n5- أن يكون مكان الإقامة حسب بطاقة الأحوال المدنية مطابق لمكان الوظيفة.",
+      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/7089_1309_376126.docx",
+      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7089_1309_688239.docx",
+      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7089",
+      "status": "open",
+      "scraped_at": "2025-12-31T05:23:06+00:00"
+    },
+    {
+      "job_id": "7091",
+      "title": "واعظة/البلقاء/لواء ديرعلا",
+      "organization": "وزارةالاوقاف والشؤون والمقدسات الاسلاميه",
+      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى",
+      "experience_text": "---",
+      "experience_raw": "---",
+      "start_date": "2025-12-31",
+      "end_date": "2026-01-11",
+      "qualification": "بكالوريوس -  شريعةودراسات اسلاميه",
+      "location": "الشاغر على مستوى اللواء:\r المحافظة: البلقاء\r\r   • الألوية: دير علا",
+      "gender": "انثى",
+      "age": "مواليد 01/01/1978 فما فوق",
+      "vacancies": 1,
+      "salary": null,
+      "requirements": "1-\tعلى المتقدم ان يكون من مواليد 1978 وما بعد.\n2-\tان يكون اردني الجنسية.\n3-\tان يكون لائقاً صحياً وغير محكوم بأية جناية أو جنحة مخلة بالشرف والأداب العامة.\n4-\tأن لا يكون المتقدم من المتقاعدين المدنيين أو العسكريين أو متقاعدي الضمان الاجتماعي .\n5-\tأن يكون مكان الإقامة حسب بطاقة الأحوال المدنية مطابق لمكان الوظيفة.",
+      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/7091_1309_899031.docx",
+      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7091_1309_703338.docx",
+      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7091",
+      "status": "open",
+      "scraped_at": "2025-12-31T05:23:06+00:00"
+    },
+    {
+      "job_id": "7092",
+      "title": "واعظة/البلقاء/لواء الشونة الجنوبية",
+      "organization": "وزارةالاوقاف والشؤون والمقدسات الاسلاميه",
+      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى",
+      "experience_text": "---",
+      "experience_raw": "---",
+      "start_date": "2025-12-31",
+      "end_date": "2026-01-11",
+      "qualification": "بكالوريوس -  شريعةودراسات اسلاميه",
+      "location": "الشاغر على مستوى اللواء:\r المحافظة: البلقاء\r\r   • الألوية: الشونه الجنوبيه",
+      "gender": "انثى",
+      "age": "مواليد 01/01/1978 فما فوق",
+      "vacancies": 1,
+      "salary": null,
+      "requirements": "1-\tعلى المتقدم ان يكون من مواليد 1978 وما بعد.\n2-\tان يكون اردني الجنسية.\n3-\tان يكون لائقاً صحياً وغير محكوم بأية جناية أو جنحة مخلة بالشرف والأداب العامة.\n4-\tأن لا يكون المتقدم من المتقاعدين المدنيين أو العسكريين أو متقاعدي الضمان الاجتماعي .\n5-\tأن يكون مكان الإقامة حسب بطاقة الأحوال المدنية مطابق لمكان الوظيفة.",
+      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/7092_1781_656432.docx",
+      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7092_1309_496603.docx",
+      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7092",
+      "status": "open",
+      "scraped_at": "2025-12-31T05:23:06+00:00"
+    },
+    {
+      "job_id": "7094",
+      "title": "واعظة/العاصمة/ لواء القويسمة",
+      "organization": "وزارةالاوقاف والشؤون والمقدسات الاسلاميه",
+      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى",
+      "experience_text": "---",
+      "experience_raw": "---",
+      "start_date": "2025-12-31",
+      "end_date": "2026-01-11",
+      "qualification": "بكالوريوس -  شريعةودراسات اسلاميه",
+      "location": "الشاغر على مستوى اللواء:\r المحافظة: العاصمه\r\r   • الألوية: القويسمه",
+      "gender": "انثى",
+      "age": "مواليد 01/01/1978 فما فوق",
+      "vacancies": 2,
+      "salary": null,
+      "requirements": "1-\tعلى المتقدم ان يكون من مواليد 1978 وما بعد.\n2-\tان يكون اردني الجنسية.\n3-\tان يكون لائقاً صحياً وغير محكوم بأية جناية أو جنحة مخلة بالشرف والأداب العامة.\n4-\tأن لا يكون المتقدم من المتقاعدين المدنيين أو العسكريين أو متقاعدي الضمان الاجتماعي .\n5-\tأن يكون مكان الإقامة حسب بطاقة الأحوال المدنية مطابق لمكان الوظيفة.",
+      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/7094_1781_680336.docx",
+      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7094_1309_944126.docx",
+      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7094",
+      "status": "open",
+      "scraped_at": "2025-12-31T05:23:06+00:00"
+    },
+    {
+      "job_id": "7096",
+      "title": "واعظة/العاصمة/لواء الموقر",
+      "organization": "وزارةالاوقاف والشؤون والمقدسات الاسلاميه",
+      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى",
+      "experience_text": "---",
+      "experience_raw": "---",
+      "start_date": "2025-12-31",
+      "end_date": "2026-01-11",
+      "qualification": "بكالوريوس -  شريعةودراسات اسلاميه",
+      "location": "الشاغر على مستوى اللواء:\r المحافظة: العاصمه\r\r   • الألوية: الموقر",
+      "gender": "انثى",
+      "age": "مواليد 01/01/1978 فما فوق",
+      "vacancies": 2,
+      "salary": null,
+      "requirements": "1-\tعلى المتقدم ان يكون من مواليد 1978 وما بعد.\n2-\tان يكون اردني الجنسية.\n3-\tان يكون لائقاً صحياً وغير محكوم بأية جناية أو جنحة مخلة بالشرف والأداب العامة.\n4-\tأن لا يكون المتقدم من المتقاعدين المدنيين أو العسكريين أو متقاعدي الضمان الاجتماعي .\n5-\tأن يكون مكان الإقامة حسب بطاقة الأحوال المدنية مطابق لمكان الوظيفة.",
+      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/7096_1781_517788.docx",
+      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7096_1309_269641.docx",
+      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7096",
+      "status": "open",
+      "scraped_at": "2025-12-31T05:23:07+00:00"
+    },
+    {
+      "job_id": "7097",
+      "title": "واعظة/الزرقاء/لواء الهاشمية",
+      "organization": "وزارةالاوقاف والشؤون والمقدسات الاسلاميه",
+      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى",
+      "experience_text": "---",
+      "experience_raw": "---",
+      "start_date": "2025-12-31",
+      "end_date": "2026-01-11",
+      "qualification": "بكالوريوس -  شريعةودراسات اسلاميه",
+      "location": "الشاغر على مستوى اللواء:\r المحافظة: الزرقاء\r\r   • الألوية: الهاشميه",
+      "gender": "انثى",
+      "age": "مواليد 01/01/1978 فما فوق",
+      "vacancies": 1,
+      "salary": null,
+      "requirements": "1-\tعلى المتقدم ان يكون من مواليد 1978 وما بعد.\n2-\tان يكون اردني الجنسية.\n3-\tان يكون لائقاً صحياً وغير محكوم بأية جناية أو جنحة مخلة بالشرف والأداب العامة.\n4-\tأن لا يكون المتقدم من المتقاعدين المدنيين أو العسكريين أو متقاعدي الضمان الاجتماعي .\n5-\tأن يكون مكان الإقامة حسب بطاقة الأحوال المدنية مطابق لمكان الوظيفة.",
+      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/7097_1781_954991.docx",
+      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7097_1309_595102.docx",
+      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7097",
+      "status": "open",
+      "scraped_at": "2025-12-31T05:23:07+00:00"
+    },
+    {
+      "job_id": "7098",
+      "title": "واعظة/المفرق/لواء البادية الشمالية/قضاء الرويشد",
+      "organization": "وزارةالاوقاف والشؤون والمقدسات الاسلاميه",
+      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى",
+      "experience_text": "---",
+      "experience_raw": "---",
+      "start_date": "2025-12-31",
+      "end_date": "2026-01-11",
+      "qualification": "بكالوريوس -  شريعةودراسات اسلاميه",
+      "location": "الشاغر على مستوى اللواء:\r المحافظة: المفرق\r\r   • الألوية: الرويشد",
+      "gender": "انثى",
+      "age": "مواليد 01/01/1978 فما فوق",
+      "vacancies": 1,
+      "salary": null,
+      "requirements": "1-\tعلى المتقدم ان يكون من مواليد 1978 وما بعد.\n2-\tان يكون اردني الجنسية.\n3-\tان يكون لائقاً صحياً وغير محكوم بأية جناية أو جنحة مخلة بالشرف والأداب العامة.\n4-\tأن لا يكون المتقدم من المتقاعدين المدنيين أو العسكريين أو متقاعدي الضمان الاجتماعي .\n5-\tأن يكون مكان الإقامة حسب بطاقة الأحوال المدنية مطابق لمكان الوظيفة.",
+      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/7098_1781_621643.docx",
+      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7098_1309_433457.docx",
+      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7098",
+      "status": "open",
+      "scraped_at": "2025-12-31T05:23:07+00:00"
+    },
+    {
+      "job_id": "7099",
+      "title": "واعظة/المفرق/لواء البادية الشمالية/قضاء ام القطين",
+      "organization": "وزارةالاوقاف والشؤون والمقدسات الاسلاميه",
+      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى",
+      "experience_text": "---",
+      "experience_raw": "---",
+      "start_date": "2025-12-31",
+      "end_date": "2026-01-11",
+      "qualification": "بكالوريوس -  شريعةودراسات اسلاميه",
+      "location": "الشاغر على مستوى القضاء:\r المحافظة: المفرق\r\r   • الألوية: الباديه الشماليه\r   • الأقضية: ام القطين",
+      "gender": "انثى",
+      "age": "مواليد 01/01/1978 فما فوق",
+      "vacancies": 1,
+      "salary": null,
+      "requirements": "1-\tعلى المتقدم ان يكون من مواليد 1978 وما بعد.\n2-\tان يكون اردني الجنسية.\n3-\tان يكون لائقاً صحياً وغير محكوم بأية جناية أو جنحة مخلة بالشرف والأداب العامة.\n4-\tأن لا يكون المتقدم من المتقاعدين المدنيين أو العسكريين أو متقاعدي الضمان الاجتماعي .\n5-\tأن يكون مكان الإقامة حسب بطاقة الأحوال المدنية مطابق لمكان الوظيفة.",
+      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/7099_1781_679400.docx",
+      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7099_1309_671273.docx",
+      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7099",
+      "status": "open",
+      "scraped_at": "2025-12-31T05:23:07+00:00"
+    },
+    {
+      "job_id": "7100",
+      "title": "واعظة/المفرق/لواء البادية الشمالية/قضاء صبحا",
+      "organization": "وزارةالاوقاف والشؤون والمقدسات الاسلاميه",
+      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى",
+      "experience_text": "---",
+      "experience_raw": "---",
+      "start_date": "2025-12-31",
+      "end_date": "2026-01-11",
+      "qualification": "بكالوريوس -  شريعةودراسات اسلاميه",
+      "location": "الشاغر على مستوى القضاء:\r المحافظة: المفرق\r\r   • الألوية: الباديه الشماليه\r   • الأقضية: صبحا",
+      "gender": "انثى",
+      "age": "مواليد 01/01/1978 فما فوق",
+      "vacancies": 1,
+      "salary": null,
+      "requirements": "1-\tعلى المتقدم ان يكون من مواليد 1978 وما بعد.\n2-\tان يكون اردني الجنسية.\n3-\tان يكون لائقاً صحياً وغير محكوم بأية جناية أو جنحة مخلة بالشرف والأداب العامة.\n4-\tأن لا يكون المتقدم من المتقاعدين المدنيين أو العسكريين أو متقاعدي الضمان الاجتماعي .\n5-\tأن يكون مكان الإقامة حسب بطاقة الأحوال المدنية مطابق لمكان الوظيفة.",
+      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/7100_1781_582464.docx",
+      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7100_1309_389025.docx",
+      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7100",
+      "status": "open",
+      "scraped_at": "2025-12-31T05:23:08+00:00"
+    },
+    {
+      "job_id": "7101",
+      "title": "واعظة/المفرق/لواء البادية الشمالي/قضاء مثلث صبحا/الصفاوي",
+      "organization": "وزارةالاوقاف والشؤون والمقدسات الاسلاميه",
+      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى و( شواغر بادية )",
+      "experience_text": "---",
+      "experience_raw": "---",
+      "start_date": "2025-12-31",
+      "end_date": "2026-01-11",
+      "qualification": "بكالوريوس -  شريعةودراسات اسلاميه",
+      "location": "الشاغر على مستوى المنطقة:\r المحافظة: المفرق\r\r   • الألوية: الباديه الشماليه\r   • الأقضية: مثلث صبحا \r   • المناطق: الصفاوي / المفرق",
+      "gender": "انثى",
+      "age": "مواليد 01/01/1978 فما فوق",
+      "vacancies": 2,
+      "salary": null,
+      "requirements": "1-\tعلى المتقدم ان يكون من مواليد 1978 وما بعد.\n2-\tان يكون اردني الجنسية.\n3-\tان يكون لائقاً صحياً وغير محكوم بأية جناية أو جنحة مخلة بالشرف والأداب العامة.\n4-\tأن لا يكون المتقدم من المتقاعدين المدنيين أو العسكريين أو متقاعدي الضمان الاجتماعي .\n5-\tأن يكون مكان الإقامة حسب بطاقة الأحوال المدنية مطابق لمكان الوظيفة.",
+      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/7101_1781_960434.docx",
+      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7101_1309_169607.docx",
+      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7101",
+      "status": "open",
+      "scraped_at": "2025-12-31T05:23:08+00:00"
+    },
+    {
+      "job_id": "7102",
+      "title": "واعظة/المفرق/لواء البادية الشمالية/قضاء دير الكهف",
+      "organization": "وزارةالاوقاف والشؤون والمقدسات الاسلاميه",
+      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى",
+      "experience_text": "---",
+      "experience_raw": "---",
+      "start_date": "2025-12-31",
+      "end_date": "2026-01-11",
+      "qualification": "بكالوريوس -  شريعةودراسات اسلاميه",
+      "location": "الشاغر على مستوى القضاء:\r المحافظة: المفرق\r\r   • الألوية: الباديه الشماليه\r   • الأقضية: دير الكهف",
+      "gender": "انثى",
+      "age": "مواليد 01/01/1978 فما فوق",
+      "vacancies": 1,
+      "salary": null,
+      "requirements": "1-\tعلى المتقدم ان يكون من مواليد 1978 وما بعد.\n2-\tان يكون اردني الجنسية.\n3-\tان يكون لائقاً صحياً وغير محكوم بأية جناية أو جنحة مخلة بالشرف والأداب العامة.\n4-\tأن لا يكون المتقدم من المتقاعدين المدنيين أو العسكريين أو متقاعدي الضمان الاجتماعي .\n5-\tأن يكون مكان الإقامة حسب بطاقة الأحوال المدنية مطابق لمكان الوظيفة.",
+      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/7102_1781_443392.docx",
+      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7102_1309_903096.docx",
+      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7102",
+      "status": "open",
+      "scraped_at": "2025-12-31T05:23:08+00:00"
+    },
+    {
+      "job_id": "7103",
+      "title": "واعظة/الكرك/لواء عي",
+      "organization": "وزارةالاوقاف والشؤون والمقدسات الاسلاميه",
+      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى",
+      "experience_text": "---",
+      "experience_raw": "---",
+      "start_date": "2025-12-31",
+      "end_date": "2026-01-11",
+      "qualification": "بكالوريوس -  شريعةودراسات اسلاميه",
+      "location": "الشاغر على مستوى اللواء:\r المحافظة: الكرك\r\r   • الألوية: عي",
+      "gender": "انثى",
+      "age": "مواليد 01/01/1978 فما فوق",
+      "vacancies": 1,
+      "salary": null,
+      "requirements": "1-\tعلى المتقدم ان يكون من مواليد 1978 وما بعد.\n2-\tان يكون اردني الجنسية.\n3-\tان يكون لائقاً صحياً وغير محكوم بأية جناية أو جنحة مخلة بالشرف والأداب العامة.\n4-\tأن لا يكون المتقدم من المتقاعدين المدنيين أو العسكريين أو متقاعدي الضمان الاجتماعي .\n5-\tأن يكون مكان الإقامة حسب بطاقة الأحوال المدنية مطابق لمكان الوظيفة.",
+      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/7103_1781_448623.docx",
+      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7103_1309_695424.docx",
+      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7103",
+      "status": "open",
+      "scraped_at": "2025-12-31T05:23:08+00:00"
+    },
+    {
+      "job_id": "7104",
+      "title": "واعظة/مادبا/لواء ذيبان/قضاء العريض",
+      "organization": "وزارةالاوقاف والشؤون والمقدسات الاسلاميه",
+      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى",
+      "experience_text": "---",
+      "experience_raw": "---",
+      "start_date": "2025-12-31",
+      "end_date": "2026-01-11",
+      "qualification": "بكالوريوس -  شريعةودراسات اسلاميه",
+      "location": "الشاغر على مستوى القضاء:\r المحافظة: مادبا\r\r   • الألوية: ذيبان\r   • الأقضية: العريض",
+      "gender": "انثى",
+      "age": "مواليد 01/01/1978 فما فوق",
+      "vacancies": 1,
+      "salary": null,
+      "requirements": "1-\tعلى المتقدم ان يكون من مواليد 1978 وما بعد.\n2-\tان يكون اردني الجنسية.\n3-\tان يكون لائقاً صحياً وغير محكوم بأية جناية أو جنحة مخلة بالشرف والأداب العامة.\n4-\tأن لا يكون المتقدم من المتقاعدين المدنيين أو العسكريين أو متقاعدي الضمان الاجتماعي .\n5-\tأن يكون مكان الإقامة حسب بطاقة الأحوال المدنية مطابق لمكان الوظيفة.",
+      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/7104_1781_850206.docx",
+      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7104_1309_944970.docx",
+      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7104",
+      "status": "open",
+      "scraped_at": "2025-12-31T05:23:08+00:00"
+    },
+    {
+      "job_id": "7105",
+      "title": "واعظة/العاصمة/لواء ماركا",
+      "organization": "وزارةالاوقاف والشؤون والمقدسات الاسلاميه",
+      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى",
+      "experience_text": "---",
+      "experience_raw": "---",
+      "start_date": "2025-12-31",
+      "end_date": "2026-01-11",
+      "qualification": "بكالوريوس -  شريعةودراسات اسلاميه",
+      "location": "الشاغر على مستوى اللواء:\r المحافظة: العاصمه\r\r   • الألوية: ماركا",
+      "gender": "انثى",
+      "age": "مواليد 01/01/1978 فما فوق",
+      "vacancies": 1,
+      "salary": null,
+      "requirements": "1-\tعلى المتقدم ان يكون من مواليد 1978 وما بعد.\n2-\tان يكون اردني الجنسية.\n3-\tان يكون لائقاً صحياً وغير محكوم بأية جناية أو جنحة مخلة بالشرف والأداب العامة.\n4-\tأن لا يكون المتقدم من المتقاعدين المدنيين أو العسكريين أو متقاعدي الضمان الاجتماعي .\n5-\tأن يكون مكان الإقامة حسب بطاقة الأحوال المدنية مطابق لمكان الوظيفة.",
+      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/7105_1781_710143.docx",
+      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7105_1309_567434.docx",
+      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7105",
+      "status": "open",
+      "scraped_at": "2025-12-31T05:23:09+00:00"
+    },
+    {
+      "job_id": "7106",
+      "title": "واعظة/معان/البادية الجنوبية/قصبة معان/قضاء مريغة",
+      "organization": "وزارةالاوقاف والشؤون والمقدسات الاسلاميه",
+      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى",
+      "experience_text": "---",
+      "experience_raw": "---",
+      "start_date": "2025-12-31",
+      "end_date": "2026-01-11",
+      "qualification": "بكالوريوس -  شريعةودراسات اسلاميه",
+      "location": "الشاغر على مستوى القضاء:\r المحافظة: معان\r\r   • الألوية: قصبه معان\r   • الأقضية: المريغه",
+      "gender": "انثى",
+      "age": "مواليد 01/01/1978 فما فوق",
+      "vacancies": 1,
+      "salary": null,
+      "requirements": "1-\tعلى المتقدم ان يكون من مواليد 1978 وما بعد.\n2-\tان يكون اردني الجنسية.\n3-\tان يكون لائقاً صحياً وغير محكوم بأية جناية أو جنحة مخلة بالشرف والأداب العامة.\n4-\tأن لا يكون المتقدم من المتقاعدين المدنيين أو العسكريين أو متقاعدي الضمان الاجتماعي .\n5-\tأن يكون مكان الإقامة حسب بطاقة الأحوال المدنية مطابق لمكان الوظيفة.",
+      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/7106_1781_244413.docx",
+      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7106_1309_781692.docx",
+      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7106",
+      "status": "open",
+      "scraped_at": "2025-12-31T05:23:09+00:00"
+    },
+    {
+      "job_id": "7107",
+      "title": "واعظة/معان/البادية الجنوبية/قصبة معان/قضاء الجفر",
+      "organization": "وزارةالاوقاف والشؤون والمقدسات الاسلاميه",
+      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى",
+      "experience_text": "---",
+      "experience_raw": "---",
+      "start_date": "2025-12-31",
+      "end_date": "2026-01-11",
+      "qualification": "بكالوريوس -  شريعةودراسات اسلاميه",
+      "location": "الشاغر على مستوى القضاء:\r المحافظة: معان\r\r   • الألوية: قصبه معان\r   • الأقضية: الجفر",
+      "gender": "انثى",
+      "age": "مواليد 01/01/1978 فما فوق",
+      "vacancies": 1,
+      "salary": null,
+      "requirements": "1-\tعلى المتقدم ان يكون من مواليد 1978 وما بعد.\n2-\tان يكون اردني الجنسية.\n3-\tان يكون لائقاً صحياً وغير محكوم بأية جناية أو جنحة مخلة بالشرف والأداب العامة.\n4-\tأن لا يكون المتقدم من المتقاعدين المدنيين أو العسكريين أو متقاعدي الضمان الاجتماعي .\n5-\tأن يكون مكان الإقامة حسب بطاقة الأحوال المدنية مطابق لمكان الوظيفة.",
+      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/7107_1781_337774.docx",
+      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7107_1309_965507.docx",
+      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7107",
+      "status": "open",
+      "scraped_at": "2025-12-31T05:23:09+00:00"
+    },
+    {
+      "job_id": "7108",
+      "title": "واعظة/معان/البادية الجنوبية/لواء الحسينية",
+      "organization": "وزارةالاوقاف والشؤون والمقدسات الاسلاميه",
+      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى",
+      "experience_text": "---",
+      "experience_raw": "---",
+      "start_date": "2025-12-31",
+      "end_date": "2026-01-11",
+      "qualification": "بكالوريوس -  شريعةودراسات اسلاميه",
+      "location": "الشاغر على مستوى اللواء:\r المحافظة: معان\r\r   • الألوية: الحسينيه/ معان",
+      "gender": "انثى",
+      "age": "مواليد 01/01/1978 فما فوق",
+      "vacancies": 1,
+      "salary": null,
+      "requirements": "1-\tعلى المتقدم ان يكون من مواليد 1978 وما بعد.\n2-\tان يكون اردني الجنسية.\n3-\tان يكون لائقاً صحياً وغير محكوم بأية جناية أو جنحة مخلة بالشرف والأداب العامة.\n4-\tأن لا يكون المتقدم من المتقاعدين المدنيين أو العسكريين أو متقاعدي الضمان الاجتماعي .\n5-\tأن يكون مكان الإقامة حسب بطاقة الأحوال المدنية مطابق لمكان الوظيفة.",
+      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/7108_1781_995908.docx",
+      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7108_1309_523748.docx",
+      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7108",
+      "status": "open",
+      "scraped_at": "2025-12-31T05:23:09+00:00"
+    },
+    {
+      "job_id": "7109",
+      "title": "واعظة/الكرك/البادية الجنوبية/لواء القطرانة",
+      "organization": "وزارةالاوقاف والشؤون والمقدسات الاسلاميه",
+      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى",
+      "experience_text": "---",
+      "experience_raw": "---",
+      "start_date": "2025-12-31",
+      "end_date": "2026-01-11",
+      "qualification": "بكالوريوس -  شريعةودراسات اسلاميه",
+      "location": "الشاغر على مستوى اللواء:\r المحافظة: الكرك\r\r   • الألوية: القطرانه",
+      "gender": "انثى",
+      "age": "مواليد 01/01/1978 فما فوق",
+      "vacancies": 1,
+      "salary": null,
+      "requirements": "1-\tعلى المتقدم ان يكون من مواليد 1978 وما بعد.\n2-\tان يكون اردني الجنسية.\n3-\tان يكون لائقاً صحياً وغير محكوم بأية جناية أو جنحة مخلة بالشرف والأداب العامة.\n4-\tأن لا يكون المتقدم من المتقاعدين المدنيين أو العسكريين أو متقاعدي الضمان الاجتماعي .\n5-\tأن يكون مكان الإقامة حسب بطاقة الأحوال المدنية مطابق لمكان الوظيفة.",
+      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/7109_1781_224073.docx",
+      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7109_1309_568713.docx",
+      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7109",
+      "status": "open",
+      "scraped_at": "2025-12-31T05:23:10+00:00"
+    },
+    {
+      "job_id": "7110",
+      "title": "واعظة/العقبة/البادية الجنوبية/القويرة/قضاء وادي عربة",
+      "organization": "وزارةالاوقاف والشؤون والمقدسات الاسلاميه",
+      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى",
+      "experience_text": "---",
+      "experience_raw": "---",
+      "start_date": "2025-12-31",
+      "end_date": "2026-01-11",
+      "qualification": "بكالوريوس -  شريعةودراسات اسلاميه",
+      "location": "الشاغر على مستوى القضاء:\r المحافظة: العقبه\r\r   • الألوية: قصبه العقبه\r   • الأقضية: وادي عربه",
+      "gender": "انثى",
+      "age": "مواليد 01/01/1978 فما فوق",
+      "vacancies": 1,
+      "salary": null,
+      "requirements": "1-\tعلى المتقدم ان يكون من مواليد 1978 وما بعد.\n2-\tان يكون اردني الجنسية.\n3-\tان يكون لائقاً صحياً وغير محكوم بأية جناية أو جنحة مخلة بالشرف والأداب العامة.\n4-\tأن لا يكون المتقدم من المتقاعدين المدنيين أو العسكريين أو متقاعدي الضمان الاجتماعي .\n5-\tأن يكون مكان الإقامة حسب بطاقة الأحوال المدنية مطابق لمكان الوظيفة.",
+      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/7110_1781_336947.docx",
+      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7110_1309_617157.docx",
+      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7110",
+      "status": "open",
+      "scraped_at": "2025-12-31T05:23:10+00:00"
+    },
+    {
+      "job_id": "7111",
+      "title": "واعظة/الزرقاء/قصبة الزرقاء/قضاء بيرين",
+      "organization": "وزارةالاوقاف والشؤون والمقدسات الاسلاميه",
+      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى",
+      "experience_text": "---",
+      "experience_raw": "---",
+      "start_date": "2025-12-31",
+      "end_date": "2026-01-11",
+      "qualification": "بكالوريوس -  شريعةودراسات اسلاميه",
+      "location": "الشاغر على مستوى القضاء:\r المحافظة: الزرقاء\r\r   • الألوية: قصبه الزرقاء\r   • الأقضية: بيرين",
+      "gender": "انثى",
+      "age": "مواليد 01/01/1978 فما فوق",
+      "vacancies": 1,
+      "salary": null,
+      "requirements": "1-\tعلى المتقدم ان يكون من مواليد 1978 وما بعد.\n2-\tان يكون اردني الجنسية.\n3-\tان يكون لائقاً صحياً وغير محكوم بأية جناية أو جنحة مخلة بالشرف والأداب العامة.\n4-\tأن لا يكون المتقدم من المتقاعدين المدنيين أو العسكريين أو متقاعدي الضمان الاجتماعي .\n5-\tأن يكون مكان الإقامة حسب بطاقة الأحوال المدنية مطابق لمكان الوظيفة.",
+      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/7111_1781_517256.docx",
+      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7111_1309_681375.docx",
+      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7111",
+      "status": "open",
+      "scraped_at": "2025-12-31T05:23:10+00:00"
+    },
+    {
+      "job_id": "7112",
+      "title": "واعظة/الزرقاء/قصبة الزرقاء/قضاء الضليل",
+      "organization": "وزارةالاوقاف والشؤون والمقدسات الاسلاميه",
+      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى",
+      "experience_text": "---",
+      "experience_raw": "---",
+      "start_date": "2025-12-31",
+      "end_date": "2026-01-11",
+      "qualification": "بكالوريوس -  شريعةودراسات اسلاميه",
+      "location": "الشاغر على مستوى القضاء:\r المحافظة: الزرقاء\r\r   • الألوية: قصبه الزرقاء\r   • الأقضية: الضليل",
+      "gender": "انثى",
+      "age": "مواليد 01/01/1978 فما فوق",
+      "vacancies": 1,
+      "salary": null,
+      "requirements": "1-\tعلى المتقدم ان يكون من مواليد 1978 وما بعد.\n2-\tان يكون اردني الجنسية.\n3-\tان يكون لائقاً صحياً وغير محكوم بأية جناية أو جنحة مخلة بالشرف والأداب العامة.\n4-\tأن لا يكون المتقدم من المتقاعدين المدنيين أو العسكريين أو متقاعدي الضمان الاجتماعي .\n5-\tأن يكون مكان الإقامة حسب بطاقة الأحوال المدنية مطابق لمكان الوظيفة.",
+      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/7112_1781_231606.docx",
+      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7112_1309_776679.docx",
+      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7112",
+      "status": "open",
+      "scraped_at": "2025-12-31T05:23:10+00:00"
+    },
+    {
+      "job_id": "7113",
+      "title": "واعظة/العقبة/القويرة/قضاء الديسه",
+      "organization": "وزارةالاوقاف والشؤون والمقدسات الاسلاميه",
+      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى",
+      "experience_text": "---",
+      "experience_raw": "---",
+      "start_date": "2025-12-31",
+      "end_date": "2026-01-11",
+      "qualification": "بكالوريوس -  شريعةودراسات اسلاميه",
+      "location": "الشاغر على مستوى القضاء:\r المحافظة: العقبه\r\r   • الألوية: القويره\r   • الأقضية: الديسه",
+      "gender": "انثى",
+      "age": "مواليد 01/01/1978 فما فوق",
+      "vacancies": 1,
+      "salary": null,
+      "requirements": "1-\tعلى المتقدم ان يكون من مواليد 1978 وما بعد.\n2-\tان يكون اردني الجنسية.\n3-\tان يكون لائقاً صحياً وغير محكوم بأية جناية أو جنحة مخلة بالشرف والأداب العامة.\n4-\tأن لا يكون المتقدم من المتقاعدين المدنيين أو العسكريين أو متقاعدي الضمان الاجتماعي .\n5-\tأن يكون مكان الإقامة حسب بطاقة الأحوال المدنية مطابق لمكان الوظيفة.",
+      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/7113_1781_566434.docx",
+      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7113_1309_157066.docx",
+      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7113",
+      "status": "open",
+      "scraped_at": "2025-12-31T05:23:11+00:00"
+    },
+    {
+      "job_id": "7114",
+      "title": "واعظة/العاصمة/البادية الوسطى/لواء الجيزة",
+      "organization": "وزارةالاوقاف والشؤون والمقدسات الاسلاميه",
+      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى",
+      "experience_text": "---",
+      "experience_raw": "---",
+      "start_date": "2025-12-31",
+      "end_date": "2026-01-11",
+      "qualification": "بكالوريوس -  شريعةودراسات اسلاميه",
+      "location": "الشاغر على مستوى اللواء:\r المحافظة: العاصمه\r\r   • الألوية: الجيزه",
+      "gender": "انثى",
+      "age": "مواليد 01/01/1978 فما فوق",
+      "vacancies": 2,
+      "salary": null,
+      "requirements": "1-\tعلى المتقدم ان يكون من مواليد 1978 وما بعد.\n2-\tان يكون اردني الجنسية.\n3-\tان يكون لائقاً صحياً وغير محكوم بأية جناية أو جنحة مخلة بالشرف والأداب العامة.\n4-\tأن لا يكون المتقدم من المتقاعدين المدنيين أو العسكريين أو متقاعدي الضمان الاجتماعي .\n5-\tأن يكون مكان الإقامة حسب بطاقة الأحوال المدنية مطابق لمكان الوظيفة.",
+      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/7114_1781_178128.docx",
+      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7114_1309_932047.docx",
+      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7114",
+      "status": "open",
+      "scraped_at": "2025-12-31T05:23:11+00:00"
+    },
+    {
+      "job_id": "7115",
+      "title": "واعظة/المفرق/لواء البادية الشمالية الغربية/قضاء حوشا",
+      "organization": "وزارةالاوقاف والشؤون والمقدسات الاسلاميه",
+      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى",
+      "experience_text": "---",
+      "experience_raw": "---",
+      "start_date": "2025-12-31",
+      "end_date": "2026-01-11",
+      "qualification": "بكالوريوس -  شريعةودراسات اسلاميه",
+      "location": "الشاغر على مستوى القضاء:\r المحافظة: المفرق\r\r   • الألوية: الباديه الشماليه الغربيه\r   • الأقضية: حوشا",
+      "gender": "انثى",
+      "age": "مواليد 01/01/1978 فما فوق",
+      "vacancies": 1,
+      "salary": null,
+      "requirements": "1-\tعلى المتقدم ان يكون من مواليد 1978 وما بعد.\n2-\tان يكون اردني الجنسية.\n3-\tان يكون لائقاً صحياً وغير محكوم بأية جناية أو جنحة مخلة بالشرف والأداب العامة.\n4-\tأن لا يكون المتقدم من المتقاعدين المدنيين أو العسكريين أو متقاعدي الضمان الاجتماعي .\n5-\tأن يكون مكان الإقامة حسب بطاقة الأحوال المدنية مطابق لمكان الوظيفة.",
+      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/7115_1781_514208.docx",
+      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7115_1309_643926.docx",
+      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7115",
+      "status": "open",
+      "scraped_at": "2025-12-31T05:23:11+00:00"
+    },
+    {
+      "job_id": "7116",
+      "title": "واعظة/المفرق/البادية الشمالية الغربية/قضاء الخالدية",
+      "organization": "وزارةالاوقاف والشؤون والمقدسات الاسلاميه",
+      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى",
+      "experience_text": "---",
+      "experience_raw": "---",
+      "start_date": "2025-12-31",
+      "end_date": "2026-01-11",
+      "qualification": "بكالوريوس -  شريعةودراسات اسلاميه",
+      "location": "الشاغر على مستوى القضاء:\r المحافظة: المفرق\r\r   • الألوية: الباديه الشماليه الغربيه\r   • الأقضية: الخالديه",
+      "gender": "انثى",
+      "age": "مواليد 01/01/1978 فما فوق",
+      "vacancies": 2,
+      "salary": null,
+      "requirements": "1-\tعلى المتقدم ان يكون من مواليد 1978 وما بعد.\n2-\tان يكون اردني الجنسية.\n3-\tان يكون لائقاً صحياً وغير محكوم بأية جناية أو جنحة مخلة بالشرف والأداب العامة.\n4-\tأن لا يكون المتقدم من المتقاعدين المدنيين أو العسكريين أو متقاعدي الضمان الاجتماعي .\n5-\tأن يكون مكان الإقامة حسب بطاقة الأحوال المدنية مطابق لمكان الوظيفة.",
+      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/7116_1781_708990.docx",
+      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7116_1309_117500.docx",
+      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7116",
+      "status": "open",
+      "scraped_at": "2025-12-31T05:23:11+00:00"
+    },
+    {
+      "job_id": "7117",
+      "title": "واعظة/الطفيلة/البادية الجنوبية/لواء الحسا",
+      "organization": "وزارةالاوقاف والشؤون والمقدسات الاسلاميه",
+      "vacancy_spec": "شواغر عامة دبلوم وبكالوريس فأعلى",
+      "experience_text": "---",
+      "experience_raw": "---",
+      "start_date": "2025-12-31",
+      "end_date": "2026-01-11",
+      "qualification": "بكالوريوس -  شريعةودراسات اسلاميه",
+      "location": "الشاغر على مستوى اللواء:\r المحافظة: الطفيله\r\r   • الألوية: الحسا",
+      "gender": "انثى",
+      "age": "مواليد 01/01/1978 فما فوق",
+      "vacancies": 1,
+      "salary": null,
+      "requirements": "1-\tعلى المتقدم ان يكون من مواليد 1978 وما بعد.\n2-\tان يكون اردني الجنسية.\n3-\tان يكون لائقاً صحياً وغير محكوم بأية جناية أو جنحة مخلة بالشرف والأداب العامة.\n4-\tأن لا يكون المتقدم من المتقاعدين المدنيين أو العسكريين أو متقاعدي الضمان الاجتماعي .\n5-\tأن يكون مكان الإقامة حسب بطاقة الأحوال المدنية مطابق لمكان الوظيفة.",
+      "announcement_pdf": "https://applyjobs.spac.gov.jo/AppJob/7117_1781_529694.docx",
+      "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7117_1309_598922.docx",
+      "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7117",
+      "status": "open",
+      "scraped_at": "2025-12-31T05:23:12+00:00"
     }
   ]
 }
