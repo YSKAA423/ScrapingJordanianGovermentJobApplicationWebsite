@@ -1,6 +1,6 @@
 {
   "source": "https://applyjobs.spac.gov.jo/",
-  "scraped_at": "2026-01-02T05:21:28+00:00",
+  "scraped_at": "2026-01-02T14:16:16+00:00",
   "job_count": 90,
   "jobs": [
     {
@@ -23,7 +23,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6803_1153_838302.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6803",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:07+00:00"
+      "scraped_at": "2026-01-02T14:15:55+00:00"
     },
     {
       "job_id": "6804",
@@ -45,7 +45,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6804_1153_597816.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6804",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:07+00:00"
+      "scraped_at": "2026-01-02T14:15:55+00:00"
     },
     {
       "job_id": "6854",
@@ -67,7 +67,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6854_1168_445025.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6854",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:08+00:00"
+      "scraped_at": "2026-01-02T14:15:55+00:00"
     },
     {
       "job_id": "6855",
@@ -89,7 +89,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6855_1168_687070.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6855",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:08+00:00"
+      "scraped_at": "2026-01-02T14:15:56+00:00"
     },
     {
       "job_id": "6856",
@@ -111,7 +111,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6856_1168_975785.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6856",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:08+00:00"
+      "scraped_at": "2026-01-02T14:15:56+00:00"
     },
     {
       "job_id": "6857",
@@ -133,7 +133,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6857_1168_538708.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6857",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:08+00:00"
+      "scraped_at": "2026-01-02T14:15:56+00:00"
     },
     {
       "job_id": "6858",
@@ -155,7 +155,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6858_1168_726974.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6858",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:09+00:00"
+      "scraped_at": "2026-01-02T14:15:56+00:00"
     },
     {
       "job_id": "6859",
@@ -177,7 +177,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6859_1168_298513.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6859",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:09+00:00"
+      "scraped_at": "2026-01-02T14:15:57+00:00"
     },
     {
       "job_id": "6860",
@@ -199,7 +199,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6860_1168_446191.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6860",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:09+00:00"
+      "scraped_at": "2026-01-02T14:15:57+00:00"
     },
     {
       "job_id": "6861",
@@ -221,7 +221,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6861_1168_682418.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6861",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:09+00:00"
+      "scraped_at": "2026-01-02T14:15:57+00:00"
     },
     {
       "job_id": "6862",
@@ -243,7 +243,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6862_1168_504107.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6862",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:10+00:00"
+      "scraped_at": "2026-01-02T14:15:57+00:00"
     },
     {
       "job_id": "6863",
@@ -265,7 +265,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6863_1168_745380.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6863",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:10+00:00"
+      "scraped_at": "2026-01-02T14:15:58+00:00"
     },
     {
       "job_id": "6864",
@@ -287,7 +287,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6864_1168_192055.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6864",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:10+00:00"
+      "scraped_at": "2026-01-02T14:15:58+00:00"
     },
     {
       "job_id": "6865",
@@ -309,7 +309,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6865_1168_649545.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6865",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:10+00:00"
+      "scraped_at": "2026-01-02T14:15:58+00:00"
     },
     {
       "job_id": "6866",
@@ -331,7 +331,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6866_1168_857522.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6866",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:10+00:00"
+      "scraped_at": "2026-01-02T14:15:58+00:00"
     },
     {
       "job_id": "6867",
@@ -353,7 +353,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6867_1168_970178.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6867",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:11+00:00"
+      "scraped_at": "2026-01-02T14:15:58+00:00"
     },
     {
       "job_id": "6868",
@@ -375,7 +375,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6868_1168_858627.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6868",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:11+00:00"
+      "scraped_at": "2026-01-02T14:15:59+00:00"
     },
     {
       "job_id": "6869",
@@ -397,7 +397,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6869_1168_904671.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6869",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:11+00:00"
+      "scraped_at": "2026-01-02T14:15:59+00:00"
     },
     {
       "job_id": "6870",
@@ -419,7 +419,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6870_1168_319360.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6870",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:11+00:00"
+      "scraped_at": "2026-01-02T14:15:59+00:00"
     },
     {
       "job_id": "6900",
@@ -441,7 +441,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6900_1411_129786.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6900",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:12+00:00"
+      "scraped_at": "2026-01-02T14:15:59+00:00"
     },
     {
       "job_id": "6903",
@@ -463,7 +463,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6903_1411_275095.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6903",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:12+00:00"
+      "scraped_at": "2026-01-02T14:16:00+00:00"
     },
     {
       "job_id": "6905",
@@ -485,7 +485,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6905_1411_471734.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6905",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:12+00:00"
+      "scraped_at": "2026-01-02T14:16:00+00:00"
     },
     {
       "job_id": "6906",
@@ -507,7 +507,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6906_1413_734191.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6906",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:12+00:00"
+      "scraped_at": "2026-01-02T14:16:00+00:00"
     },
     {
       "job_id": "6907",
@@ -529,7 +529,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6907_1413_799476.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6907",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:13+00:00"
+      "scraped_at": "2026-01-02T14:16:00+00:00"
     },
     {
       "job_id": "6908",
@@ -551,7 +551,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6908_1413_245447.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6908",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:13+00:00"
+      "scraped_at": "2026-01-02T14:16:01+00:00"
     },
     {
       "job_id": "6909",
@@ -573,7 +573,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6909_1411_530149.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6909",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:13+00:00"
+      "scraped_at": "2026-01-02T14:16:01+00:00"
     },
     {
       "job_id": "6910",
@@ -595,7 +595,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6910_1411_612874.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6910",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:13+00:00"
+      "scraped_at": "2026-01-02T14:16:01+00:00"
     },
     {
       "job_id": "6912",
@@ -617,7 +617,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6912_1411_752555.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6912",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:14+00:00"
+      "scraped_at": "2026-01-02T14:16:01+00:00"
     },
     {
       "job_id": "6913",
@@ -639,7 +639,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6913_1411_659543.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6913",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:14+00:00"
+      "scraped_at": "2026-01-02T14:16:02+00:00"
     },
     {
       "job_id": "6914",
@@ -661,7 +661,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6914_1411_839449.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6914",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:14+00:00"
+      "scraped_at": "2026-01-02T14:16:02+00:00"
     },
     {
       "job_id": "6915",
@@ -683,7 +683,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6915_1411_457935.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6915",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:14+00:00"
+      "scraped_at": "2026-01-02T14:16:02+00:00"
     },
     {
       "job_id": "6916",
@@ -705,7 +705,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6916_1411_226581.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6916",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:15+00:00"
+      "scraped_at": "2026-01-02T14:16:02+00:00"
     },
     {
       "job_id": "6917",
@@ -727,7 +727,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6917_1411_826451.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6917",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:15+00:00"
+      "scraped_at": "2026-01-02T14:16:03+00:00"
     },
     {
       "job_id": "6918",
@@ -749,7 +749,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6918_1411_256518.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6918",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:15+00:00"
+      "scraped_at": "2026-01-02T14:16:03+00:00"
     },
     {
       "job_id": "6919",
@@ -771,7 +771,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6919_1411_677821.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6919",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:15+00:00"
+      "scraped_at": "2026-01-02T14:16:03+00:00"
     },
     {
       "job_id": "6920",
@@ -793,7 +793,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6920_1411_904762.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6920",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:15+00:00"
+      "scraped_at": "2026-01-02T14:16:03+00:00"
     },
     {
       "job_id": "6921",
@@ -815,7 +815,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6921_1411_159162.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6921",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:16+00:00"
+      "scraped_at": "2026-01-02T14:16:04+00:00"
     },
     {
       "job_id": "6922",
@@ -837,7 +837,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6922_1411_929479.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6922",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:16+00:00"
+      "scraped_at": "2026-01-02T14:16:04+00:00"
     },
     {
       "job_id": "6923",
@@ -859,7 +859,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6923_1411_244745.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6923",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:16+00:00"
+      "scraped_at": "2026-01-02T14:16:04+00:00"
     },
     {
       "job_id": "6924",
@@ -881,7 +881,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6924_1411_298104.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6924",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:16+00:00"
+      "scraped_at": "2026-01-02T14:16:04+00:00"
     },
     {
       "job_id": "6925",
@@ -903,7 +903,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6925_1411_122214.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6925",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:17+00:00"
+      "scraped_at": "2026-01-02T14:16:04+00:00"
     },
     {
       "job_id": "6956",
@@ -925,7 +925,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6956_1585_208041.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6956",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:17+00:00"
+      "scraped_at": "2026-01-02T14:16:05+00:00"
     },
     {
       "job_id": "6957",
@@ -947,7 +947,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6957_1185_211280.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6957",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:17+00:00"
+      "scraped_at": "2026-01-02T14:16:05+00:00"
     },
     {
       "job_id": "6958",
@@ -969,7 +969,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6958_1585_960509.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6958",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:17+00:00"
+      "scraped_at": "2026-01-02T14:16:05+00:00"
     },
     {
       "job_id": "6959",
@@ -991,7 +991,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6959_1585_359922.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6959",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:18+00:00"
+      "scraped_at": "2026-01-02T14:16:05+00:00"
     },
     {
       "job_id": "6960",
@@ -1013,7 +1013,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6960_1185_827024.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6960",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:18+00:00"
+      "scraped_at": "2026-01-02T14:16:06+00:00"
     },
     {
       "job_id": "6964",
@@ -1035,7 +1035,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6964_1585_269101.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6964",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:18+00:00"
+      "scraped_at": "2026-01-02T14:16:06+00:00"
     },
     {
       "job_id": "6965",
@@ -1057,7 +1057,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6965_1585_773526.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6965",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:18+00:00"
+      "scraped_at": "2026-01-02T14:16:06+00:00"
     },
     {
       "job_id": "6969",
@@ -1079,7 +1079,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/6969_1585_656118.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=6969",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:19+00:00"
+      "scraped_at": "2026-01-02T14:16:06+00:00"
     },
     {
       "job_id": "7036",
@@ -1101,7 +1101,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7036_1300_606708.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7036",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:19+00:00"
+      "scraped_at": "2026-01-02T14:16:07+00:00"
     },
     {
       "job_id": "7037",
@@ -1123,7 +1123,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7037_1300_874451.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7037",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:19+00:00"
+      "scraped_at": "2026-01-02T14:16:07+00:00"
     },
     {
       "job_id": "7038",
@@ -1145,7 +1145,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7038_1441_965536.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7038",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:19+00:00"
+      "scraped_at": "2026-01-02T14:16:07+00:00"
     },
     {
       "job_id": "7039",
@@ -1167,7 +1167,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7039_1300_383433.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7039",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:19+00:00"
+      "scraped_at": "2026-01-02T14:16:07+00:00"
     },
     {
       "job_id": "7040",
@@ -1189,7 +1189,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7040_1300_931475.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7040",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:20+00:00"
+      "scraped_at": "2026-01-02T14:16:08+00:00"
     },
     {
       "job_id": "7041",
@@ -1211,7 +1211,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7041_1300_821910.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7041",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:20+00:00"
+      "scraped_at": "2026-01-02T14:16:08+00:00"
     },
     {
       "job_id": "7042",
@@ -1233,7 +1233,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7042_1300_943357.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7042",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:20+00:00"
+      "scraped_at": "2026-01-02T14:16:08+00:00"
     },
     {
       "job_id": "7043",
@@ -1255,7 +1255,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7043_1300_587345.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7043",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:20+00:00"
+      "scraped_at": "2026-01-02T14:16:08+00:00"
     },
     {
       "job_id": "7045",
@@ -1277,7 +1277,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7045_1300_494330.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7045",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:21+00:00"
+      "scraped_at": "2026-01-02T14:16:09+00:00"
     },
     {
       "job_id": "7050",
@@ -1299,7 +1299,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7050_1300_589724.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7050",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:21+00:00"
+      "scraped_at": "2026-01-02T14:16:09+00:00"
     },
     {
       "job_id": "7052",
@@ -1321,7 +1321,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7052_1300_625333.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7052",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:21+00:00"
+      "scraped_at": "2026-01-02T14:16:09+00:00"
     },
     {
       "job_id": "7055",
@@ -1343,7 +1343,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7055_1300_768449.pdf",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7055",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:21+00:00"
+      "scraped_at": "2026-01-02T14:16:09+00:00"
     },
     {
       "job_id": "7082",
@@ -1365,7 +1365,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7082_1309_238196.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7082",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:22+00:00"
+      "scraped_at": "2026-01-02T14:16:10+00:00"
     },
     {
       "job_id": "7086",
@@ -1387,7 +1387,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7086_1309_165378.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7086",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:22+00:00"
+      "scraped_at": "2026-01-02T14:16:10+00:00"
     },
     {
       "job_id": "7087",
@@ -1409,7 +1409,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7087_1309_657739.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7087",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:22+00:00"
+      "scraped_at": "2026-01-02T14:16:10+00:00"
     },
     {
       "job_id": "7089",
@@ -1431,7 +1431,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7089_1309_688239.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7089",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:22+00:00"
+      "scraped_at": "2026-01-02T14:16:10+00:00"
     },
     {
       "job_id": "7091",
@@ -1453,7 +1453,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7091_1309_703338.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7091",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:23+00:00"
+      "scraped_at": "2026-01-02T14:16:10+00:00"
     },
     {
       "job_id": "7092",
@@ -1475,7 +1475,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7092_1309_496603.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7092",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:23+00:00"
+      "scraped_at": "2026-01-02T14:16:11+00:00"
     },
     {
       "job_id": "7094",
@@ -1497,7 +1497,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7094_1309_944126.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7094",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:23+00:00"
+      "scraped_at": "2026-01-02T14:16:11+00:00"
     },
     {
       "job_id": "7096",
@@ -1519,7 +1519,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7096_1309_269641.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7096",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:23+00:00"
+      "scraped_at": "2026-01-02T14:16:11+00:00"
     },
     {
       "job_id": "7097",
@@ -1541,7 +1541,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7097_1309_595102.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7097",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:24+00:00"
+      "scraped_at": "2026-01-02T14:16:11+00:00"
     },
     {
       "job_id": "7098",
@@ -1563,7 +1563,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7098_1309_433457.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7098",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:24+00:00"
+      "scraped_at": "2026-01-02T14:16:12+00:00"
     },
     {
       "job_id": "7099",
@@ -1585,7 +1585,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7099_1309_671273.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7099",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:24+00:00"
+      "scraped_at": "2026-01-02T14:16:12+00:00"
     },
     {
       "job_id": "7100",
@@ -1607,7 +1607,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7100_1309_389025.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7100",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:24+00:00"
+      "scraped_at": "2026-01-02T14:16:12+00:00"
     },
     {
       "job_id": "7101",
@@ -1629,7 +1629,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7101_1309_169607.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7101",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:25+00:00"
+      "scraped_at": "2026-01-02T14:16:12+00:00"
     },
     {
       "job_id": "7102",
@@ -1651,7 +1651,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7102_1309_903096.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7102",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:25+00:00"
+      "scraped_at": "2026-01-02T14:16:13+00:00"
     },
     {
       "job_id": "7103",
@@ -1673,7 +1673,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7103_1309_695424.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7103",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:25+00:00"
+      "scraped_at": "2026-01-02T14:16:13+00:00"
     },
     {
       "job_id": "7104",
@@ -1695,7 +1695,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7104_1309_944970.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7104",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:25+00:00"
+      "scraped_at": "2026-01-02T14:16:13+00:00"
     },
     {
       "job_id": "7105",
@@ -1717,7 +1717,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7105_1309_567434.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7105",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:26+00:00"
+      "scraped_at": "2026-01-02T14:16:13+00:00"
     },
     {
       "job_id": "7106",
@@ -1739,7 +1739,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7106_1309_781692.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7106",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:26+00:00"
+      "scraped_at": "2026-01-02T14:16:14+00:00"
     },
     {
       "job_id": "7107",
@@ -1761,7 +1761,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7107_1309_965507.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7107",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:26+00:00"
+      "scraped_at": "2026-01-02T14:16:14+00:00"
     },
     {
       "job_id": "7108",
@@ -1783,7 +1783,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7108_1309_523748.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7108",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:26+00:00"
+      "scraped_at": "2026-01-02T14:16:14+00:00"
     },
     {
       "job_id": "7109",
@@ -1805,7 +1805,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7109_1309_568713.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7109",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:26+00:00"
+      "scraped_at": "2026-01-02T14:16:14+00:00"
     },
     {
       "job_id": "7110",
@@ -1827,7 +1827,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7110_1309_617157.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7110",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:27+00:00"
+      "scraped_at": "2026-01-02T14:16:15+00:00"
     },
     {
       "job_id": "7111",
@@ -1849,7 +1849,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7111_1309_681375.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7111",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:27+00:00"
+      "scraped_at": "2026-01-02T14:16:15+00:00"
     },
     {
       "job_id": "7112",
@@ -1871,7 +1871,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7112_1309_776679.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7112",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:27+00:00"
+      "scraped_at": "2026-01-02T14:16:15+00:00"
     },
     {
       "job_id": "7113",
@@ -1893,7 +1893,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7113_1309_157066.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7113",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:27+00:00"
+      "scraped_at": "2026-01-02T14:16:15+00:00"
     },
     {
       "job_id": "7114",
@@ -1915,7 +1915,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7114_1309_932047.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7114",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:28+00:00"
+      "scraped_at": "2026-01-02T14:16:16+00:00"
     },
     {
       "job_id": "7115",
@@ -1937,7 +1937,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7115_1309_643926.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7115",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:28+00:00"
+      "scraped_at": "2026-01-02T14:16:16+00:00"
     },
     {
       "job_id": "7116",
@@ -1959,7 +1959,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7116_1309_117500.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7116",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:28+00:00"
+      "scraped_at": "2026-01-02T14:16:16+00:00"
     },
     {
       "job_id": "7117",
@@ -1981,7 +1981,7 @@
       "description_pdf": "https://applyjobs.spac.gov.jo/AppJobDesc/7117_1309_598922.docx",
       "detail_url": "https://applyjobs.spac.gov.jo/JobDet.aspx?JobID=7117",
       "status": "open",
-      "scraped_at": "2026-01-02T05:21:28+00:00"
+      "scraped_at": "2026-01-02T14:16:16+00:00"
     }
   ]
 }
